@@ -1,0 +1,2968 @@
+,Causa_Direta,Natureza,Interrupcao (h),Hora
+0,Casos Fortuitos ou de Força Maior,Colisão,0.0,16
+1,Casos Fortuitos ou de Força Maior,Abalroamento,1.5,6
+2,Falha Humana,Colisão,9.0,20
+3,Via Permanente,Descarrilamento,28.0,16
+4,Casos Fortuitos ou de Força Maior,Atropelamento,1.4,7
+5,Via Permanente,Descarrilamento,24.0,15
+6,Casos Fortuitos ou de Força Maior,Abalroamento,0.5,20
+7,Casos Fortuitos ou de Força Maior,Abalroamento,1.7,21
+8,Casos Fortuitos ou de Força Maior,Atropelamento,1.9,6
+9,Casos Fortuitos ou de Força Maior,Abalroamento,1.2,17
+10,Casos Fortuitos ou de Força Maior,Abalroamento,1.3,1
+11,Casos Fortuitos ou de Força Maior,Abalroamento,0.6,10
+12,Casos Fortuitos ou de Força Maior,Abalroamento,0.2,2
+13,Casos Fortuitos ou de Força Maior,Atropelamento,2.5,3
+14,Casos Fortuitos ou de Força Maior,Atropelamento,1.3,15
+15,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,1
+16,Casos Fortuitos ou de Força Maior,Atropelamento,0.2,19
+17,Casos Fortuitos ou de Força Maior,Descarrilamento,6.5,21
+18,Interferência de Terceiro,Abalroamento,0.1,12
+19,Casos Fortuitos ou de Força Maior,Descarrilamento,15.0,3
+20,Casos Fortuitos ou de Força Maior,Descarrilamento,6.1,12
+21,Casos Fortuitos ou de Força Maior,Abalroamento,1.7,20
+22,Via Permanente,Descarrilamento,5.2,0
+23,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,2
+24,Material Rodante,Descarrilamento,0.0,1
+25,Via Permanente,Descarrilamento,14.5,5
+26,Material Rodante,Descarrilamento,12.4,6
+27,Material Rodante,Descarrilamento,1.0,11
+28,Casos Fortuitos ou de Força Maior,Abalroamento,0.4,13
+29,Casos Fortuitos ou de Força Maior,Abalroamento,0.0,16
+30,Via Permanente,Descarrilamento,10.8,13
+31,Casos Fortuitos ou de Força Maior,Atropelamento,2.0,19
+32,Via Permanente,Descarrilamento,22.0,22
+33,Casos Fortuitos ou de Força Maior,Atropelamento,2.0,3
+34,Casos Fortuitos ou de Força Maior,Abalroamento,1.0,8
+35,Casos Fortuitos ou de Força Maior,Atropelamento,0.3,15
+36,Casos Fortuitos ou de Força Maior,Atropelamento,3.3,4
+37,Via Permanente,Descarrilamento,30.0,5
+38,Interferência de Terceiro,Abalroamento,0.6,9
+39,Casos Fortuitos ou de Força Maior,Abalroamento,2.9,12
+40,Interferência de Terceiro,Abalroamento,0.0,16
+41,Casos Fortuitos ou de Força Maior,Atropelamento,2.4,19
+42,Casos Fortuitos ou de Força Maior,Abalroamento,2.0,3
+43,Casos Fortuitos ou de Força Maior,Abalroamento,0.2,16
+44,Casos Fortuitos ou de Força Maior,Descarrilamento,4.1,23
+45,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,6
+46,Casos Fortuitos ou de Força Maior,Abalroamento,3.9,15
+47,Casos Fortuitos ou de Força Maior,Abalroamento,0.5,3
+48,Via Permanente,Descarrilamento,14.0,16
+49,Casos Fortuitos ou de Força Maior,Colisão,1.2,18
+50,Casos Fortuitos ou de Força Maior,Atropelamento,0.9,12
+51,Interferência de Terceiro,Atropelamento,3.0,4
+52,Interferência de Terceiro,Abalroamento,0.2,11
+53,Interferência de Terceiro,Abalroamento,0.0,11
+54,Casos Fortuitos ou de Força Maior,Colisão,0.3,17
+55,Via Permanente,Descarrilamento,37.0,4
+56,Interferência de Terceiro,Abalroamento,0.4,16
+57,Interferência de Terceiro,Atropelamento,1.1,17
+58,Via Permanente,Descarrilamento,2.0,3
+59,Interferência de Terceiro,Abalroamento,0.0,6
+60,Material Rodante,Descarrilamento,4.9,14
+61,Interferência de Terceiro,Abalroamento,2.4,3
+62,Interferência de Terceiro,Abalroamento,2.5,15
+63,Interferência de Terceiro,Abalroamento,0.0,18
+64,Interferência de Terceiro,Abalroamento,0.2,21
+65,Interferência de Terceiro,Abalroamento,1.3,16
+66,Interferência de Terceiro,Abalroamento,1.5,22
+67,Interferência de Terceiro,Abalroamento,3.3,16
+68,Interferência de Terceiro,Abalroamento,1.3,17
+69,Interferência de Terceiro,Atropelamento,0.0,23
+70,Interferência de Terceiro,Atropelamento,0.0,6
+71,Via Permanente,Descarrilamento,4.0,11
+72,Interferência de Terceiro,Atropelamento,1.5,20
+73,Via Permanente,Descarrilamento,20.4,7
+74,Interferência de Terceiro,Atropelamento,0.0,19
+75,Interferência de Terceiro,Abalroamento,0.2,20
+76,Via Permanente,Descarrilamento,6.8,21
+77,Via Permanente,Descarrilamento,4.9,6
+78,Interferência de Terceiro,Atropelamento,0.7,18
+79,Via Permanente,Descarrilamento,5.3,18
+80,Via Permanente,Descarrilamento,0.0,4
+81,Interferência de Terceiro,Abalroamento,1.1,19
+82,Via Permanente,Descarrilamento,3.2,8
+83,Interferência de Terceiro,Atropelamento,1.0,17
+84,Interferência de Terceiro,Atropelamento,1.2,21
+85,Interferência de Terceiro,Abalroamento,1.0,23
+86,Interferência de Terceiro,Abalroamento,1.0,4
+87,Interferência de Terceiro,Atropelamento,1.1,21
+88,Interferência de Terceiro,Atropelamento,1.0,0
+89,Interferência de Terceiro,Atropelamento,2.5,14
+90,Via Permanente,Descarrilamento,12.8,16
+91,Interferência de Terceiro,Abalroamento,0.0,11
+92,Interferência de Terceiro,Abalroamento,0.0,0
+93,Interferência de Terceiro,Abalroamento,3.5,0
+94,Interferência de Terceiro,Abalroamento,0.8,11
+95,Via Permanente,Descarrilamento,29.5,14
+96,Interferência de Terceiro,Abalroamento,0.5,17
+97,Interferência de Terceiro,Atropelamento,0.0,22
+98,Interferência de Terceiro,Abalroamento,0.0,12
+99,Interferência de Terceiro,Atropelamento,1.0,13
+100,Via Permanente,Descarrilamento,17.0,21
+101,Interferência de Terceiro,Atropelamento,3.1,6
+102,Material Rodante,Descarrilamento,5.5,21
+103,Interferência de Terceiro,Abalroamento,1.8,22
+104,Via Permanente,Descarrilamento,59.2,2
+105,Interferência de Terceiro,Atropelamento,0.0,9
+106,Interferência de Terceiro,Abalroamento,2.5,0
+107,Via Permanente,Descarrilamento,0.0,22
+108,Via Permanente,Descarrilamento,18.5,6
+109,Material Rodante,Descarrilamento,12.1,6
+110,Material Rodante,Descarrilamento,5.4,17
+111,Interferência de Terceiro,Abalroamento,0.0,21
+112,Interferência de Terceiro,Atropelamento,0.0,16
+113,Interferência de Terceiro,Abalroamento,0.0,16
+114,Interferência de Terceiro,Abalroamento,3.9,17
+115,Via Permanente,Descarrilamento,9.9,21
+116,Interferência de Terceiro,Abalroamento,0.9,21
+117,Interferência de Terceiro,Abalroamento,0.4,1
+118,Via Permanente,Descarrilamento,40.5,4
+119,Interferência de Terceiro,Abalroamento,0.9,18
+120,Interferência de Terceiro,Atropelamento,1.2,1
+121,Interferência de Terceiro,Abalroamento,0.0,6
+122,Interferência de Terceiro,Atropelamento,0.5,8
+123,Via Permanente,Descarrilamento,15.5,15
+124,Material Rodante,Incêndio,0.0,23
+125,Interferência de Terceiro,Abalroamento,1.1,13
+126,Via Permanente,Descarrilamento,20.0,13
+127,Interferência de Terceiro,Atropelamento,0.4,18
+128,Interferência de Terceiro,Abalroamento,1.1,20
+129,Interferência de Terceiro,Abalroamento,4.8,17
+130,Interferência de Terceiro,Abalroamento,3.2,11
+131,Via Permanente,Descarrilamento,11.8,14
+132,Interferência de Terceiro,Atropelamento,2.3,20
+133,Casos Fortuitos ou de Força Maior,Abalroamento,0.8,21
+134,Interferência de Terceiro,Atropelamento,1.1,3
+135,Interferência de Terceiro,Abalroamento,1.4,17
+136,Interferência de Terceiro,Abalroamento,0.5,7
+137,Interferência de Terceiro,Abalroamento,1.9,11
+138,Interferência de Terceiro,Abalroamento,2.1,22
+139,Interferência de Terceiro,Abalroamento,0.0,22
+140,Via Permanente,Descarrilamento,34.5,6
+141,Via Permanente,Descarrilamento,28.5,3
+142,Interferência de Terceiro,Abalroamento,0.1,8
+143,Interferência de Terceiro,Abalroamento,0.1,22
+144,Interferência de Terceiro,Atropelamento,0.9,7
+145,Falha Humana,Colisão,2.5,11
+146,Interferência de Terceiro,Atropelamento,2.3,23
+147,Falha Humana,Descarrilamento,3.0,1
+148,Interferência de Terceiro,Atropelamento,1.5,17
+149,Casos Fortuitos ou de Força Maior,Atropelamento,2.9,18
+150,Interferência de Terceiro,Abalroamento,0.9,11
+151,Interferência de Terceiro,Abalroamento,2.4,12
+152,Interferência de Terceiro,Atropelamento,521.0,16
+153,Via Permanente,Descarrilamento,21.3,15
+154,Via Permanente,Descarrilamento,40.0,8
+155,Interferência de Terceiro,Atropelamento,0.2,12
+156,Via Permanente,Descarrilamento,21.5,16
+157,Via Permanente,Descarrilamento,6.5,20
+158,Interferência de Terceiro,Atropelamento,1.9,22
+159,Via Permanente,Descarrilamento,5.0,17
+160,Via Permanente,Descarrilamento,0.0,7
+161,Interferência de Terceiro,Abalroamento,0.0,18
+162,Interferência de Terceiro,Abalroamento,0.0,9
+163,Interferência de Terceiro,Abalroamento,0.7,9
+164,Interferência de Terceiro,Abalroamento,1.0,19
+165,Interferência de Terceiro,Atropelamento,3.2,23
+166,Material Rodante,Descarrilamento,10.3,3
+167,Interferência de Terceiro,Atropelamento,0.0,11
+168,Interferência de Terceiro,Abalroamento,0.8,22
+169,Interferência de Terceiro,Atropelamento,0.0,19
+170,Falha Humana,Atropelamento,1.1,2
+171,Via Permanente,Descarrilamento,0.0,4
+172,Interferência de Terceiro,Abalroamento,0.3,14
+173,Interferência de Terceiro,Atropelamento,0.0,15
+174,Casos Fortuitos ou de Força Maior,Atropelamento,0.1,5
+175,Interferência de Terceiro,Atropelamento,0.5,13
+176,Interferência de Terceiro,Atropelamento,4.0,1
+177,Material Rodante,Descarrilamento,32.0,22
+178,Interferência de Terceiro,Atropelamento,1.0,20
+179,Interferência de Terceiro,Abalroamento,0.9,15
+180,Via Permanente,Descarrilamento,0.0,21
+181,Material Rodante,Descarrilamento,33.0,3
+182,Interferência de Terceiro,Abalroamento,0.0,10
+183,Via Permanente,Descarrilamento,23.2,19
+184,Interferência de Terceiro,Abalroamento,0.3,22
+185,Via Permanente,Descarrilamento,0.0,5
+186,Interferência de Terceiro,Abalroamento,2.0,20
+187,Interferência de Terceiro,Atropelamento,0.6,23
+188,Via Permanente,Descarrilamento,10.1,11
+189,Interferência de Terceiro,Abalroamento,0.0,17
+190,Interferência de Terceiro,Abalroamento,3.0,19
+191,Interferência de Terceiro,Abalroamento,1.0,21
+192,Via Permanente,Descarrilamento,13.5,5
+193,Interferência de Terceiro,Atropelamento,1.0,12
+194,Interferência de Terceiro,Atropelamento,2.0,13
+195,Via Permanente,Descarrilamento,3.2,17
+196,Interferência de Terceiro,Abalroamento,1.1,11
+197,Interferência de Terceiro,Atropelamento,1.9,0
+198,Via Permanente,Descarrilamento,4.2,2
+199,Interferência de Terceiro,Abalroamento,0.0,18
+200,Interferência de Terceiro,Abalroamento,0.5,7
+201,Interferência de Terceiro,Abalroamento,0.5,10
+202,Via Permanente,Descarrilamento,16.2,13
+203,Via Permanente,Descarrilamento,0.0,2
+204,Interferência de Terceiro,Atropelamento,3.0,1
+205,Interferência de Terceiro,Abalroamento,0.5,16
+206,Material Rodante,Descarrilamento,5.5,13
+207,Interferência de Terceiro,Atropelamento,1.2,22
+208,Interferência de Terceiro,Atropelamento,0.0,17
+209,Interferência de Terceiro,Abalroamento,0.0,12
+210,Interferência de Terceiro,Atropelamento,2.1,14
+211,Interferência de Terceiro,Abalroamento,1.3,16
+212,Via Permanente,Descarrilamento,13.0,17
+213,Via Permanente,Descarrilamento,5.0,11
+214,Interferência de Terceiro,Atropelamento,0.0,17
+215,Interferência de Terceiro,Abalroamento,0.2,6
+216,Interferência de Terceiro,Abalroamento,1.1,18
+217,Interferência de Terceiro,Abalroamento,0.2,7
+218,Via Permanente,Descarrilamento,22.0,3
+219,Interferência de Terceiro,Abalroamento,0.7,14
+220,Via Permanente,Descarrilamento,4.3,22
+221,Casos Fortuitos ou de Força Maior,Colisão,1.5,2
+222,Via Permanente,Descarrilamento,14.5,0
+223,Via Permanente,Descarrilamento,7.8,2
+224,Material Rodante,Descarrilamento,6.7,13
+225,Interferência de Terceiro,Atropelamento,1.3,15
+226,Interferência de Terceiro,Atropelamento,1.0,21
+227,Via Permanente,Descarrilamento,19.0,14
+228,Interferência de Terceiro,Abalroamento,1.0,17
+229,Interferência de Terceiro,Atropelamento,1.2,14
+230,Interferência de Terceiro,Atropelamento,1.8,17
+231,Interferência de Terceiro,Abalroamento,0.0,18
+232,Interferência de Terceiro,Atropelamento,0.0,18
+233,Interferência de Terceiro,Atropelamento,1.8,3
+234,Interferência de Terceiro,Abalroamento,2.5,8
+235,Casos Fortuitos ou de Força Maior,Colisão,0.0,19
+236,Interferência de Terceiro,Descarrilamento,7.7,22
+237,Interferência de Terceiro,Atropelamento,2.9,20
+238,Interferência de Terceiro,Atropelamento,4.3,23
+239,Interferência de Terceiro,Abalroamento,0.4,6
+240,Material Rodante,Descarrilamento,0.0,15
+241,Interferência de Terceiro,Atropelamento,1.5,22
+242,Interferência de Terceiro,Abalroamento,0.0,6
+243,Interferência de Terceiro,Atropelamento,1.5,17
+244,Via Permanente,Descarrilamento,12.0,18
+245,Interferência de Terceiro,Abalroamento,1.0,20
+246,Via Permanente,Descarrilamento,17.1,21
+247,Via Permanente,Descarrilamento,37.9,3
+248,Interferência de Terceiro,Atropelamento,0.0,5
+249,Interferência de Terceiro,Atropelamento,3.3,7
+250,Via Permanente,Descarrilamento,13.9,7
+251,Interferência de Terceiro,Abalroamento,0.1,10
+252,Via Permanente,Descarrilamento,53.2,11
+253,Via Permanente,Descarrilamento,59.2,12
+254,Casos Fortuitos ou de Força Maior,Descarrilamento,21.5,19
+255,Via Permanente,Descarrilamento,5.5,4
+256,Interferência de Terceiro,Abalroamento,0.3,6
+257,Interferência de Terceiro,Atropelamento,1.0,20
+258,Interferência de Terceiro,Abalroamento,0.3,16
+259,Sistemas,Descarrilamento,15.0,5
+260,Interferência de Terceiro,Abalroamento,1.0,13
+261,Interferência de Terceiro,Abalroamento,2.3,17
+262,Interferência de Terceiro,Abalroamento,2.6,7
+263,Via Permanente,Descarrilamento,20.0,1
+264,Interferência de Terceiro,Atropelamento,0.0,15
+265,Interferência de Terceiro,Abalroamento,0.9,5
+266,Interferência de Terceiro,Abalroamento,0.0,14
+267,Interferência de Terceiro,Abalroamento,0.0,18
+268,Interferência de Terceiro,Abalroamento,1.5,15
+269,Interferência de Terceiro,Abalroamento,2.7,16
+270,Interferência de Terceiro,Atropelamento,0.3,8
+271,Interferência de Terceiro,Abalroamento,5.1,2
+272,Interferência de Terceiro,Abalroamento,1.6,11
+273,Via Permanente,Descarrilamento,4.0,13
+274,Interferência de Terceiro,Atropelamento,1.0,3
+275,Falha Humana,Descarrilamento,13.1,15
+276,Interferência de Terceiro,Abalroamento,1.5,10
+277,Interferência de Terceiro,Atropelamento,2.0,7
+278,Interferência de Terceiro,Abalroamento,0.0,10
+279,Material Rodante,Descarrilamento,12.0,2
+280,Interferência de Terceiro,Abalroamento,2.2,12
+281,Interferência de Terceiro,Abalroamento,0.0,20
+282,Interferência de Terceiro,Atropelamento,0.0,1
+283,Interferência de Terceiro,Abalroamento,0.7,15
+284,Interferência de Terceiro,Atropelamento,1.2,19
+285,Via Permanente,Descarrilamento,20.5,18
+286,Via Permanente,Descarrilamento,7.0,0
+287,Interferência de Terceiro,Abalroamento,1.0,6
+288,Interferência de Terceiro,Abalroamento,1.3,14
+289,Interferência de Terceiro,Abalroamento,0.6,16
+290,Interferência de Terceiro,Atropelamento,0.0,20
+291,Interferência de Terceiro,Abalroamento,0.5,6
+292,Interferência de Terceiro,Abalroamento,0.8,13
+293,Via Permanente,Descarrilamento,22.0,2
+294,Material Rodante,Descarrilamento,3.1,10
+295,Interferência de Terceiro,Atropelamento,2.0,13
+296,Interferência de Terceiro,Atropelamento,0.3,8
+297,Via Permanente,Descarrilamento,20.0,14
+298,Interferência de Terceiro,Abalroamento,3.0,20
+299,Via Permanente,Descarrilamento,16.5,0
+300,Interferência de Terceiro,Abalroamento,0.5,11
+301,Via Permanente,Descarrilamento,30.0,8
+302,Interferência de Terceiro,Abalroamento,0.2,11
+303,Casos Fortuitos ou de Força Maior,Colisão,2.0,10
+304,Interferência de Terceiro,Abalroamento,1.0,17
+305,Interferência de Terceiro,Atropelamento,0.0,18
+306,Casos Fortuitos ou de Força Maior,Colisão,0.0,18
+307,Interferência de Terceiro,Atropelamento,0.0,14
+308,Interferência de Terceiro,Abalroamento,1.7,3
+309,Interferência de Terceiro,Abalroamento,0.3,20
+310,Interferência de Terceiro,Atropelamento,4.9,21
+311,Interferência de Terceiro,Atropelamento,0.3,10
+312,Interferência de Terceiro,Abalroamento,2.0,14
+313,Interferência de Terceiro,Abalroamento,0.6,7
+314,Via Permanente,Descarrilamento,7.2,15
+315,Interferência de Terceiro,Atropelamento,4.5,6
+316,Via Permanente,Descarrilamento,6.0,9
+317,Interferência de Terceiro,Atropelamento,1.4,9
+318,Interferência de Terceiro,Abalroamento,0.7,13
+319,Interferência de Terceiro,Atropelamento,3.0,17
+320,Interferência de Terceiro,Atropelamento,2.1,22
+321,Interferência de Terceiro,Atropelamento,0.0,4
+322,Interferência de Terceiro,Abalroamento,0.1,15
+323,Interferência de Terceiro,Abalroamento,0.1,15
+324,Interferência de Terceiro,Atropelamento,1.5,16
+325,Via Permanente,Descarrilamento,17.3,18
+326,Interferência de Terceiro,Atropelamento,3.0,20
+327,Via Permanente,Descarrilamento,3.4,3
+328,Interferência de Terceiro,Atropelamento,0.0,17
+329,Via Permanente,Descarrilamento,12.0,15
+330,Interferência de Terceiro,Abalroamento,0.2,15
+331,Via Permanente,Descarrilamento,38.5,12
+332,Interferência de Terceiro,Abalroamento,1.5,12
+333,Interferência de Terceiro,Atropelamento,4.5,7
+334,Interferência de Terceiro,Abalroamento,0.4,12
+335,Interferência de Terceiro,Atropelamento,0.8,13
+336,Interferência de Terceiro,Abalroamento,1.0,21
+337,Interferência de Terceiro,Atropelamento,0.8,14
+338,Interferência de Terceiro,Abalroamento,0.0,19
+339,Via Permanente,Descarrilamento,6.0,20
+340,Interferência de Terceiro,Abalroamento,1.5,9
+341,Interferência de Terceiro,Abalroamento,1.0,10
+342,Interferência de Terceiro,Abalroamento,1.1,11
+343,Interferência de Terceiro,Abalroamento,0.2,17
+344,Via Permanente,Descarrilamento,10.5,7
+345,Via Permanente,Descarrilamento,12.3,7
+346,Material Rodante,Descarrilamento,20.1,14
+347,Interferência de Terceiro,Abalroamento,0.0,15
+348,Interferência de Terceiro,Abalroamento,5.3,17
+349,Interferência de Terceiro,Abalroamento,0.2,19
+350,Interferência de Terceiro,Abalroamento,0.5,11
+351,Interferência de Terceiro,Abalroamento,0.0,17
+352,Interferência de Terceiro,Abalroamento,0.1,21
+353,Interferência de Terceiro,Atropelamento,1.6,15
+354,Interferência de Terceiro,Abalroamento,0.2,19
+355,Via Permanente,Descarrilamento,7.0,6
+356,Interferência de Terceiro,Atropelamento,0.0,9
+357,Interferência de Terceiro,Atropelamento,0.4,11
+358,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,5
+359,Interferência de Terceiro,Abalroamento,0.1,19
+360,Via Permanente,Descarrilamento,36.6,4
+361,Via Permanente,Descarrilamento,13.2,12
+362,Interferência de Terceiro,Atropelamento,0.8,22
+363,Interferência de Terceiro,Abalroamento,1.1,23
+364,Interferência de Terceiro,Incêndio,0.0,15
+365,Via Permanente,Descarrilamento,8.3,13
+366,Interferência de Terceiro,Abalroamento,1.0,18
+367,Interferência de Terceiro,Atropelamento,0.2,10
+368,Via Permanente,Descarrilamento,18.0,13
+369,Material Rodante,Descarrilamento,4.0,21
+370,Interferência de Terceiro,Atropelamento,1.1,2
+371,Interferência de Terceiro,Abalroamento,0.0,9
+372,Via Permanente,Descarrilamento,8.1,13
+373,Interferência de Terceiro,Abalroamento,1.0,22
+374,Interferência de Terceiro,Abalroamento,1.3,16
+375,Interferência de Terceiro,Abalroamento,2.0,21
+376,Via Permanente,Descarrilamento,19.4,22
+377,Interferência de Terceiro,Descarrilamento,10.1,6
+378,Interferência de Terceiro,Abalroamento,0.8,8
+379,Via Permanente,Descarrilamento,0.0,1
+380,Via Permanente,Descarrilamento,22.4,3
+381,Via Permanente,Descarrilamento,9.0,16
+382,Via Permanente,Descarrilamento,11.0,13
+383,Interferência de Terceiro,Atropelamento,0.2,16
+384,Interferência de Terceiro,Abalroamento,1.9,20
+385,Interferência de Terceiro,Abalroamento,0.8,22
+386,Interferência de Terceiro,Abalroamento,0.0,7
+387,Interferência de Terceiro,Abalroamento,0.0,17
+388,Interferência de Terceiro,Abalroamento,0.0,19
+389,Interferência de Terceiro,Atropelamento,0.0,1
+390,Interferência de Terceiro,Abalroamento,0.3,10
+391,Interferência de Terceiro,Abalroamento,2.0,11
+392,Via Permanente,Descarrilamento,0.0,11
+393,Via Permanente,Descarrilamento,8.0,15
+394,Interferência de Terceiro,Abalroamento,0.2,19
+395,Interferência de Terceiro,Abalroamento,1.0,5
+396,Interferência de Terceiro,Abalroamento,0.0,7
+397,Via Permanente,Descarrilamento,10.0,8
+398,Interferência de Terceiro,Abalroamento,1.0,10
+399,Interferência de Terceiro,Abalroamento,0.8,17
+400,Interferência de Terceiro,Atropelamento,1.0,18
+401,Interferência de Terceiro,Atropelamento,0.5,0
+402,Interferência de Terceiro,Abalroamento,0.5,1
+403,Casos Fortuitos ou de Força Maior,Descarrilamento,15.9,6
+404,Interferência de Terceiro,Atropelamento,0.7,7
+405,Interferência de Terceiro,Abalroamento,1.5,18
+406,Interferência de Terceiro,Abalroamento,0.5,20
+407,Interferência de Terceiro,Abalroamento,0.0,0
+408,Via Permanente,Descarrilamento,20.4,4
+409,Interferência de Terceiro,Atropelamento,0.0,14
+410,Interferência de Terceiro,Abalroamento,0.7,12
+411,Interferência de Terceiro,Atropelamento,3.0,16
+412,Via Permanente,Descarrilamento,11.2,13
+413,Interferência de Terceiro,Abalroamento,3.3,16
+414,Interferência de Terceiro,Abalroamento,3.5,21
+415,Interferência de Terceiro,Atropelamento,1.0,19
+416,Interferência de Terceiro,Abalroamento,2.0,19
+417,Interferência de Terceiro,Abalroamento,0.0,20
+418,Material Rodante,Descarrilamento,5.1,21
+419,Via Permanente,Descarrilamento,7.3,11
+420,Interferência de Terceiro,Abalroamento,3.5,15
+421,Interferência de Terceiro,Abalroamento,0.5,2
+422,Via Permanente,Descarrilamento,4.4,2
+423,Via Permanente,Descarrilamento,10.2,1
+424,Via Permanente,Descarrilamento,10.0,23
+425,Interferência de Terceiro,Abalroamento,0.6,5
+426,Interferência de Terceiro,Abalroamento,2.0,7
+427,Interferência de Terceiro,Abalroamento,0.1,9
+428,Interferência de Terceiro,Atropelamento,1.0,12
+429,Interferência de Terceiro,Abalroamento,2.1,13
+430,Interferência de Terceiro,Abalroamento,1.3,15
+431,Interferência de Terceiro,Atropelamento,2.5,20
+432,Interferência de Terceiro,Abalroamento,2.4,2
+433,Interferência de Terceiro,Descarrilamento,13.0,14
+434,Interferência de Terceiro,Abalroamento,0.9,8
+435,Via Permanente,Descarrilamento,25.2,11
+436,Interferência de Terceiro,Abalroamento,2.3,22
+437,Interferência de Terceiro,Abalroamento,1.1,17
+438,Interferência de Terceiro,Abalroamento,0.7,9
+439,Interferência de Terceiro,Abalroamento,2.8,19
+440,Interferência de Terceiro,Abalroamento,0.0,6
+441,Interferência de Terceiro,Abalroamento,0.0,19
+442,Interferência de Terceiro,Abalroamento,0.7,11
+443,Interferência de Terceiro,Abalroamento,1.1,22
+444,Via Permanente,Descarrilamento,8.5,22
+445,Interferência de Terceiro,Abalroamento,0.4,1
+446,Material Rodante,Descarrilamento,0.0,4
+447,Casos Fortuitos ou de Força Maior,Abalroamento,0.0,5
+448,Via Permanente,Descarrilamento,56.9,9
+449,Interferência de Terceiro,Atropelamento,0.9,7
+450,Via Permanente,Descarrilamento,18.6,17
+451,Interferência de Terceiro,Atropelamento,2.5,0
+452,Interferência de Terceiro,Atropelamento,0.0,17
+453,Interferência de Terceiro,Abalroamento,0.4,22
+454,Interferência de Terceiro,Atropelamento,3.8,9
+455,Interferência de Terceiro,Incêndio,0.0,15
+456,Interferência de Terceiro,Abalroamento,0.0,21
+457,Interferência de Terceiro,Atropelamento,0.0,17
+458,Interferência de Terceiro,Abalroamento,1.5,20
+459,Via Permanente,Descarrilamento,5.9,6
+460,Interferência de Terceiro,Atropelamento,1.5,10
+461,Interferência de Terceiro,Abalroamento,1.6,14
+462,Interferência de Terceiro,Atropelamento,2.5,19
+463,Interferência de Terceiro,Atropelamento,2.0,18
+464,Via Permanente,Descarrilamento,10.0,6
+465,Interferência de Terceiro,Atropelamento,0.7,9
+466,Material Rodante,Incêndio,2.0,10
+467,Interferência de Terceiro,Abalroamento,1.7,19
+468,Interferência de Terceiro,Abalroamento,0.5,16
+469,Interferência de Terceiro,Abalroamento,2.9,18
+470,Interferência de Terceiro,Abalroamento,0.5,22
+471,Interferência de Terceiro,Atropelamento,0.8,15
+472,Interferência de Terceiro,Atropelamento,1.1,16
+473,Via Permanente,Descarrilamento,7.5,12
+474,Interferência de Terceiro,Abalroamento,1.7,12
+475,Material Rodante,Descarrilamento,0.0,19
+476,Via Permanente,Descarrilamento,12.5,8
+477,Via Permanente,Descarrilamento,20.7,6
+478,Interferência de Terceiro,Abalroamento,0.0,8
+479,Interferência de Terceiro,Abalroamento,1.2,19
+480,Interferência de Terceiro,Abalroamento,16.0,21
+481,Via Permanente,Descarrilamento,23.0,21
+482,Interferência de Terceiro,Abalroamento,0.6,13
+483,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,17
+484,Interferência de Terceiro,Atropelamento,1.6,17
+485,Interferência de Terceiro,Atropelamento,1.3,8
+486,Interferência de Terceiro,Abalroamento,0.7,19
+487,Via Permanente,Descarrilamento,24.0,10
+488,Interferência de Terceiro,Abalroamento,2.0,16
+489,Interferência de Terceiro,Abalroamento,1.0,4
+490,Via Permanente,Descarrilamento,27.0,10
+491,Interferência de Terceiro,Abalroamento,0.7,13
+492,Interferência de Terceiro,Abalroamento,0.5,17
+493,Interferência de Terceiro,Atropelamento,1.0,0
+494,Interferência de Terceiro,Abalroamento,0.0,6
+495,Interferência de Terceiro,Atropelamento,2.0,19
+496,Interferência de Terceiro,Abalroamento,0.4,14
+497,Interferência de Terceiro,Atropelamento,0.0,2
+498,Interferência de Terceiro,Abalroamento,0.7,12
+499,Via Permanente,Descarrilamento,8.8,11
+500,Interferência de Terceiro,Atropelamento,1.0,21
+501,Via Permanente,Descarrilamento,2.0,22
+502,Interferência de Terceiro,Abalroamento,2.9,6
+503,Interferência de Terceiro,Abalroamento,0.0,7
+504,Interferência de Terceiro,Abalroamento,1.0,23
+505,Interferência de Terceiro,Atropelamento,3.9,1
+506,Via Permanente,Descarrilamento,0.0,20
+507,Interferência de Terceiro,Atropelamento,0.1,3
+508,Via Permanente,Descarrilamento,4.3,3
+509,Interferência de Terceiro,Atropelamento,0.4,0
+510,Interferência de Terceiro,Abalroamento,1.9,10
+511,Via Permanente,Descarrilamento,13.3,14
+512,Interferência de Terceiro,Abalroamento,0.8,3
+513,Interferência de Terceiro,Atropelamento,0.0,11
+514,Interferência de Terceiro,Abalroamento,1.2,20
+515,Interferência de Terceiro,Abalroamento,1.9,6
+516,Interferência de Terceiro,Abalroamento,1.9,16
+517,Interferência de Terceiro,Abalroamento,0.0,15
+518,Interferência de Terceiro,Abalroamento,0.0,22
+519,Interferência de Terceiro,Abalroamento,3.0,7
+520,Interferência de Terceiro,Atropelamento,1.5,14
+521,Interferência de Terceiro,Abalroamento,0.6,16
+522,Interferência de Terceiro,Abalroamento,0.7,7
+523,Interferência de Terceiro,Atropelamento,1.8,4
+524,Interferência de Terceiro,Abalroamento,0.3,13
+525,Interferência de Terceiro,Atropelamento,1.1,16
+526,Interferência de Terceiro,Abalroamento,1.2,17
+527,Interferência de Terceiro,Atropelamento,0.2,7
+528,Interferência de Terceiro,Atropelamento,0.5,13
+529,Via Permanente,Descarrilamento,14.4,17
+530,Casos Fortuitos ou de Força Maior,Abalroamento,0.4,7
+531,Interferência de Terceiro,Atropelamento,0.6,7
+532,Interferência de Terceiro,Atropelamento,2.4,8
+533,Interferência de Terceiro,Abalroamento,0.3,10
+534,Via Permanente,Descarrilamento,20.0,15
+535,Interferência de Terceiro,Abalroamento,5.0,4
+536,Interferência de Terceiro,Atropelamento,1.8,8
+537,Interferência de Terceiro,Abalroamento,0.0,5
+538,Casos Fortuitos ou de Força Maior,Colisão,0.0,9
+539,Interferência de Terceiro,Abalroamento,3.0,10
+540,Interferência de Terceiro,Abalroamento,0.7,17
+541,Interferência de Terceiro,Atropelamento,2.0,23
+542,Interferência de Terceiro,Abalroamento,2.0,2
+543,Interferência de Terceiro,Atropelamento,1.5,5
+544,Via Permanente,Descarrilamento,2.8,12
+545,Interferência de Terceiro,Abalroamento,0.3,15
+546,Falha Humana,Colisão,0.0,18
+547,Via Permanente,Descarrilamento,49.7,1
+548,Interferência de Terceiro,Abalroamento,0.6,21
+549,Interferência de Terceiro,Atropelamento,1.9,4
+550,Interferência de Terceiro,Abalroamento,0.8,10
+551,Interferência de Terceiro,Atropelamento,0.0,18
+552,Via Permanente,Descarrilamento,15.0,10
+553,Interferência de Terceiro,Abalroamento,1.2,15
+554,Interferência de Terceiro,Abalroamento,0.6,19
+555,Interferência de Terceiro,Atropelamento,4.0,22
+556,Interferência de Terceiro,Abalroamento,3.0,17
+557,Interferência de Terceiro,Abalroamento,1.0,7
+558,Interferência de Terceiro,Atropelamento,0.7,19
+559,Interferência de Terceiro,Abalroamento,0.0,14
+560,Via Permanente,Descarrilamento,24.0,14
+561,Via Permanente,Descarrilamento,17.1,14
+562,Interferência de Terceiro,Abalroamento,0.0,19
+563,Interferência de Terceiro,Abalroamento,0.5,23
+564,Material Rodante,Descarrilamento,0.0,9
+565,Material Rodante,Descarrilamento,7.0,15
+566,Interferência de Terceiro,Abalroamento,2.5,15
+567,Interferência de Terceiro,Atropelamento,0.4,8
+568,Interferência de Terceiro,Abalroamento,0.0,21
+569,Interferência de Terceiro,Abalroamento,0.0,14
+570,Interferência de Terceiro,Atropelamento,1.5,17
+571,Interferência de Terceiro,Abalroamento,2.1,16
+572,Interferência de Terceiro,Abalroamento,4.0,19
+573,Material Rodante,Descarrilamento,8.0,9
+574,Interferência de Terceiro,Atropelamento,0.5,13
+575,Interferência de Terceiro,Abalroamento,0.2,14
+576,Interferência de Terceiro,Abalroamento,0.0,20
+577,Interferência de Terceiro,Atropelamento,0.0,0
+578,Via Permanente,Descarrilamento,3.2,1
+579,Interferência de Terceiro,Abalroamento,3.1,11
+580,Interferência de Terceiro,Atropelamento,1.6,23
+581,Via Permanente,Descarrilamento,50.8,14
+582,Via Permanente,Descarrilamento,0.0,15
+583,Interferência de Terceiro,Atropelamento,0.0,6
+584,Interferência de Terceiro,Abalroamento,1.6,20
+585,Via Permanente,Descarrilamento,4.0,4
+586,Interferência de Terceiro,Atropelamento,1.1,4
+587,Interferência de Terceiro,Abalroamento,1.5,16
+588,Interferência de Terceiro,Atropelamento,0.0,1
+589,Interferência de Terceiro,Abalroamento,0.8,18
+590,Via Permanente,Descarrilamento,21.0,14
+591,Interferência de Terceiro,Abalroamento,0.3,8
+592,Interferência de Terceiro,Abalroamento,0.4,8
+593,Interferência de Terceiro,Abalroamento,0.0,19
+594,Interferência de Terceiro,Atropelamento,3.0,20
+595,Interferência de Terceiro,Abalroamento,0.3,21
+596,Via Permanente,Descarrilamento,4.0,9
+597,Interferência de Terceiro,Abalroamento,1.3,7
+598,Via Permanente,Descarrilamento,4.2,18
+599,Interferência de Terceiro,Abalroamento,0.7,18
+600,Interferência de Terceiro,Abalroamento,0.3,3
+601,Falha Humana,Colisão,0.0,8
+602,Interferência de Terceiro,Atropelamento,0.0,13
+603,Via Permanente,Descarrilamento,24.0,0
+604,Interferência de Terceiro,Abalroamento,0.2,9
+605,Material Rodante,Descarrilamento,5.3,9
+606,Interferência de Terceiro,Atropelamento,0.1,9
+607,Interferência de Terceiro,Abalroamento,0.3,15
+608,Casos Fortuitos ou de Força Maior,Colisão,0.0,18
+609,Interferência de Terceiro,Abalroamento,3.0,14
+610,Interferência de Terceiro,Abalroamento,1.5,12
+611,Interferência de Terceiro,Atropelamento,1.8,12
+612,Interferência de Terceiro,Abalroamento,0.8,8
+613,Interferência de Terceiro,Abalroamento,0.8,11
+614,Interferência de Terceiro,Abalroamento,1.1,13
+615,Interferência de Terceiro,Abalroamento,0.7,16
+616,Interferência de Terceiro,Abalroamento,1.5,14
+617,Interferência de Terceiro,Abalroamento,1.4,19
+618,Interferência de Terceiro,Abalroamento,2.8,6
+619,Interferência de Terceiro,Abalroamento,0.3,11
+620,Falha Humana,Abalroamento,0.5,12
+621,Interferência de Terceiro,Atropelamento,1.6,7
+622,Interferência de Terceiro,Abalroamento,0.0,11
+623,Interferência de Terceiro,Abalroamento,1.9,7
+624,Via Permanente,Descarrilamento,33.5,12
+625,Interferência de Terceiro,Abalroamento,1.1,19
+626,Via Permanente,Descarrilamento,0.0,20
+627,Interferência de Terceiro,Abalroamento,0.2,20
+628,Via Permanente,Descarrilamento,9.7,7
+629,Casos Fortuitos ou de Força Maior,Descarrilamento,14.4,8
+630,Interferência de Terceiro,Atropelamento,2.0,9
+631,Interferência de Terceiro,Abalroamento,0.2,10
+632,Interferência de Terceiro,Atropelamento,0.0,15
+633,Via Permanente,Descarrilamento,4.0,19
+634,Interferência de Terceiro,Abalroamento,0.1,18
+635,Interferência de Terceiro,Atropelamento,0.0,19
+636,Interferência de Terceiro,Abalroamento,3.0,19
+637,Interferência de Terceiro,Abalroamento,0.6,18
+638,Interferência de Terceiro,Abalroamento,1.4,11
+639,Via Permanente,Descarrilamento,10.6,16
+640,Interferência de Terceiro,Abalroamento,0.3,1
+641,Material Rodante,Descarrilamento,2.0,16
+642,Interferência de Terceiro,Abalroamento,0.4,19
+643,Interferência de Terceiro,Abalroamento,0.8,0
+644,Interferência de Terceiro,Descarrilamento,3.0,18
+645,Interferência de Terceiro,Atropelamento,1.7,21
+646,Interferência de Terceiro,Descarrilamento,5.9,22
+647,Interferência de Terceiro,Abalroamento,0.7,15
+648,Interferência de Terceiro,Abalroamento,3.1,11
+649,Interferência de Terceiro,Atropelamento,0.2,21
+650,Material Rodante,Incêndio,0.0,22
+651,Interferência de Terceiro,Atropelamento,0.5,7
+652,Interferência de Terceiro,Abalroamento,0.0,14
+653,Interferência de Terceiro,Descarrilamento,0.0,14
+654,Interferência de Terceiro,Atropelamento,0.5,22
+655,Via Permanente,Descarrilamento,15.5,7
+656,Interferência de Terceiro,Abalroamento,0.0,14
+657,Interferência de Terceiro,Abalroamento,0.1,19
+658,Interferência de Terceiro,Abalroamento,0.2,7
+659,Via Permanente,Descarrilamento,21.0,7
+660,Interferência de Terceiro,Abalroamento,0.3,12
+661,Via Permanente,Descarrilamento,19.5,14
+662,Interferência de Terceiro,Abalroamento,0.0,16
+663,Via Permanente,Descarrilamento,9.1,9
+664,Outras Causas,Descarrilamento,24.0,13
+665,Interferência de Terceiro,Atropelamento,2.0,22
+666,Interferência de Terceiro,Atropelamento,1.0,19
+667,Interferência de Terceiro,Abalroamento,0.0,7
+668,Interferência de Terceiro,Atropelamento,0.0,8
+669,Interferência de Terceiro,Abalroamento,0.5,10
+670,Material Rodante,Descarrilamento,0.0,18
+671,Interferência de Terceiro,Atropelamento,0.0,23
+672,Interferência de Terceiro,Atropelamento,4.6,2
+673,Interferência de Terceiro,Atropelamento,0.5,19
+674,Via Permanente,Descarrilamento,32.0,23
+675,Via Permanente,Descarrilamento,23.2,11
+676,Interferência de Terceiro,Abalroamento,0.3,19
+677,Via Permanente,Descarrilamento,28.0,3
+678,Interferência de Terceiro,Atropelamento,2.5,19
+679,Via Permanente,Descarrilamento,6.3,23
+680,Via Permanente,Descarrilamento,15.8,15
+681,Via Permanente,Descarrilamento,10.0,0
+682,Interferência de Terceiro,Atropelamento,0.2,0
+683,Interferência de Terceiro,Abalroamento,0.1,18
+684,Interferência de Terceiro,Abalroamento,0.9,20
+685,Interferência de Terceiro,Atropelamento,0.2,9
+686,Via Permanente,Descarrilamento,10.0,17
+687,Via Permanente,Descarrilamento,9.4,5
+688,Interferência de Terceiro,Atropelamento,2.4,18
+689,Interferência de Terceiro,Atropelamento,3.1,19
+690,Interferência de Terceiro,Abalroamento,0.7,19
+691,Interferência de Terceiro,Abalroamento,0.0,20
+692,Interferência de Terceiro,Abalroamento,0.0,3
+693,Falha Humana,Descarrilamento,4.8,10
+694,Material Rodante,Descarrilamento,8.2,17
+695,Interferência de Terceiro,Abalroamento,1.0,21
+696,Via Permanente,Descarrilamento,20.1,9
+697,Interferência de Terceiro,Atropelamento,0.9,10
+698,Interferência de Terceiro,Abalroamento,1.1,20
+699,Interferência de Terceiro,Atropelamento,0.0,20
+700,Interferência de Terceiro,Abalroamento,0.2,13
+701,Via Permanente,Descarrilamento,17.0,16
+702,Material Rodante,Descarrilamento,2.1,3
+703,Interferência de Terceiro,Abalroamento,1.2,9
+704,Interferência de Terceiro,Abalroamento,0.2,9
+705,Interferência de Terceiro,Atropelamento,1.1,18
+706,Interferência de Terceiro,Atropelamento,1.9,21
+707,Via Permanente,Descarrilamento,12.2,6
+708,Interferência de Terceiro,Atropelamento,0.0,5
+709,Via Permanente,Descarrilamento,22.0,19
+710,Interferência de Terceiro,Abalroamento,0.5,7
+711,Material Rodante,Descarrilamento,4.8,23
+712,Interferência de Terceiro,Abalroamento,0.0,11
+713,Falha Humana,Colisão,0.0,12
+714,Interferência de Terceiro,Atropelamento,0.4,16
+715,Casos Fortuitos ou de Força Maior,Abalroamento,1.3,20
+716,Interferência de Terceiro,Atropelamento,0.0,18
+717,Interferência de Terceiro,Abalroamento,1.1,13
+718,Via Permanente,Descarrilamento,18.6,1
+719,Interferência de Terceiro,Abalroamento,0.2,14
+720,Via Permanente,Descarrilamento,7.8,21
+721,Via Permanente,Descarrilamento,53.8,10
+722,Interferência de Terceiro,Abalroamento,2.5,12
+723,Via Permanente,Descarrilamento,25.0,13
+724,Via Permanente,Descarrilamento,11.1,13
+725,Via Permanente,Descarrilamento,10.1,17
+726,Interferência de Terceiro,Atropelamento,0.0,17
+727,Interferência de Terceiro,Atropelamento,1.5,9
+728,Interferência de Terceiro,Abalroamento,0.1,10
+729,Interferência de Terceiro,Atropelamento,0.0,9
+730,Interferência de Terceiro,Atropelamento,0.0,19
+731,Interferência de Terceiro,Abalroamento,2.3,20
+732,Via Permanente,Descarrilamento,15.0,13
+733,Interferência de Terceiro,Atropelamento,3.3,8
+734,Interferência de Terceiro,Descarrilamento,21.0,2
+735,Interferência de Terceiro,Atropelamento,1.3,6
+736,Interferência de Terceiro,Abalroamento,0.7,12
+737,Interferência de Terceiro,Atropelamento,2.2,13
+738,Interferência de Terceiro,Atropelamento,2.5,19
+739,Interferência de Terceiro,Atropelamento,0.0,7
+740,Interferência de Terceiro,Atropelamento,0.0,10
+741,Interferência de Terceiro,Atropelamento,0.0,21
+742,Casos Fortuitos ou de Força Maior,Descarrilamento,25.0,5
+743,Via Permanente,Descarrilamento,6.9,15
+744,Interferência de Terceiro,Abalroamento,0.0,7
+745,Interferência de Terceiro,Abalroamento,1.1,6
+746,Interferência de Terceiro,Atropelamento,2.4,7
+747,Material Rodante,Descarrilamento,3.0,11
+748,Interferência de Terceiro,Abalroamento,0.3,6
+749,Interferência de Terceiro,Atropelamento,0.0,6
+750,Via Permanente,Descarrilamento,24.0,11
+751,Interferência de Terceiro,Abalroamento,1.5,11
+752,Interferência de Terceiro,Atropelamento,2.2,17
+753,Interferência de Terceiro,Abalroamento,2.0,20
+754,Interferência de Terceiro,Abalroamento,1.1,7
+755,Interferência de Terceiro,Atropelamento,0.0,16
+756,Interferência de Terceiro,Abalroamento,0.5,11
+757,Interferência de Terceiro,Atropelamento,1.0,21
+758,Interferência de Terceiro,Atropelamento,3.5,17
+759,Interferência de Terceiro,Abalroamento,0.3,3
+760,Interferência de Terceiro,Atropelamento,1.1,5
+761,Interferência de Terceiro,Abalroamento,3.3,7
+762,Via Permanente,Descarrilamento,8.1,10
+763,Interferência de Terceiro,Abalroamento,1.1,5
+764,Interferência de Terceiro,Atropelamento,2.9,19
+765,Material Rodante,Descarrilamento,24.0,8
+766,Interferência de Terceiro,Abalroamento,0.2,19
+767,Interferência de Terceiro,Abalroamento,0.6,22
+768,Via Permanente,Descarrilamento,0.0,13
+769,Interferência de Terceiro,Abalroamento,2.1,9
+770,Interferência de Terceiro,Atropelamento,2.3,11
+771,Material Rodante,Descarrilamento,4.5,8
+772,Material Rodante,Descarrilamento,26.0,4
+773,Interferência de Terceiro,Abalroamento,3.0,4
+774,Interferência de Terceiro,Abalroamento,0.2,16
+775,Interferência de Terceiro,Abalroamento,0.0,22
+776,Interferência de Terceiro,Abalroamento,0.0,8
+777,Interferência de Terceiro,Atropelamento,3.4,7
+778,Interferência de Terceiro,Abalroamento,0.5,8
+779,Falha Humana,Descarrilamento,12.0,0
+780,Via Permanente,Descarrilamento,28.0,15
+781,Via Permanente,Descarrilamento,13.5,5
+782,Interferência de Terceiro,Abalroamento,0.2,21
+783,Falha Humana,Descarrilamento,36.9,15
+784,Interferência de Terceiro,Atropelamento,0.0,20
+785,Interferência de Terceiro,Abalroamento,0.0,7
+786,Interferência de Terceiro,Atropelamento,0.0,9
+787,Interferência de Terceiro,Abalroamento,0.1,18
+788,Interferência de Terceiro,Atropelamento,0.0,18
+789,Via Permanente,Descarrilamento,0.0,3
+790,Via Permanente,Descarrilamento,16.7,13
+791,Via Permanente,Descarrilamento,23.7,4
+792,Interferência de Terceiro,Abalroamento,1.2,11
+793,Via Permanente,Descarrilamento,12.8,14
+794,Via Permanente,Descarrilamento,14.9,4
+795,Via Permanente,Colisão,25.0,4
+796,Interferência de Terceiro,Abalroamento,0.8,8
+797,Interferência de Terceiro,Atropelamento,3.0,12
+798,Interferência de Terceiro,Abalroamento,2.0,17
+799,Interferência de Terceiro,Abalroamento,0.8,8
+800,Material Rodante,Descarrilamento,2.8,10
+801,Via Permanente,Descarrilamento,12.2,10
+802,Casos Fortuitos ou de Força Maior,Colisão,0.0,19
+803,Interferência de Terceiro,Atropelamento,3.1,20
+804,Interferência de Terceiro,Atropelamento,0.0,0
+805,Material Rodante,Descarrilamento,25.2,8
+806,Material Rodante,Descarrilamento,4.3,7
+807,Interferência de Terceiro,Abalroamento,1.2,14
+808,Interferência de Terceiro,Abalroamento,0.4,12
+809,Interferência de Terceiro,Abalroamento,0.7,7
+810,Falha Humana,Atropelamento,0.0,19
+811,Via Permanente,Descarrilamento,55.0,11
+812,Interferência de Terceiro,Abalroamento,1.0,18
+813,Interferência de Terceiro,Abalroamento,0.0,23
+814,Interferência de Terceiro,Atropelamento,2.0,21
+815,Interferência de Terceiro,Atropelamento,0.0,9
+816,Via Permanente,Descarrilamento,16.4,14
+817,Interferência de Terceiro,Atropelamento,0.0,18
+818,Interferência de Terceiro,Abalroamento,0.3,5
+819,Interferência de Terceiro,Atropelamento,1.8,17
+820,Interferência de Terceiro,Abalroamento,0.5,19
+821,Interferência de Terceiro,Atropelamento,0.0,21
+822,Material Rodante,Descarrilamento,20.1,15
+823,Interferência de Terceiro,Atropelamento,3.4,20
+824,Interferência de Terceiro,Abalroamento,1.3,21
+825,Interferência de Terceiro,Abalroamento,1.0,10
+826,Interferência de Terceiro,Atropelamento,0.8,10
+827,Material Rodante,Descarrilamento,9.0,23
+828,Interferência de Terceiro,Atropelamento,0.0,2
+829,Interferência de Terceiro,Abalroamento,0.0,11
+830,Via Permanente,Descarrilamento,12.9,12
+831,Interferência de Terceiro,Atropelamento,0.0,18
+832,Interferência de Terceiro,Abalroamento,0.1,0
+833,Interferência de Terceiro,Abalroamento,1.1,11
+834,Interferência de Terceiro,Descarrilamento,2.3,15
+835,Interferência de Terceiro,Atropelamento,0.0,20
+836,Material Rodante,Descarrilamento,2.0,19
+837,Interferência de Terceiro,Abalroamento,2.8,14
+838,Interferência de Terceiro,Atropelamento,0.0,22
+839,Interferência de Terceiro,Abalroamento,0.7,11
+840,Interferência de Terceiro,Abalroamento,0.8,17
+841,Interferência de Terceiro,Abalroamento,0.9,20
+842,Via Permanente,Descarrilamento,9.7,5
+843,Via Permanente,Descarrilamento,26.0,10
+844,Via Permanente,Descarrilamento,31.6,14
+845,Interferência de Terceiro,Abalroamento,7.2,12
+846,Via Permanente,Descarrilamento,12.5,16
+847,Interferência de Terceiro,Atropelamento,0.3,18
+848,Via Permanente,Descarrilamento,9.3,21
+849,Interferência de Terceiro,Atropelamento,1.3,1
+850,Interferência de Terceiro,Abalroamento,0.8,1
+851,Interferência de Terceiro,Atropelamento,0.0,2
+852,Casos Fortuitos ou de Força Maior,Descarrilamento,38.2,9
+853,Interferência de Terceiro,Atropelamento,0.0,11
+854,Interferência de Terceiro,Abalroamento,1.0,7
+855,Interferência de Terceiro,Atropelamento,7.0,16
+856,Interferência de Terceiro,Abalroamento,1.1,20
+857,Interferência de Terceiro,Abalroamento,0.2,7
+858,Material Rodante,Descarrilamento,0.0,8
+859,Interferência de Terceiro,Abalroamento,0.0,11
+860,Interferência de Terceiro,Abalroamento,4.8,22
+861,Interferência de Terceiro,Atropelamento,2.5,1
+862,Interferência de Terceiro,Abalroamento,0.3,18
+863,Via Permanente,Descarrilamento,13.6,11
+864,Interferência de Terceiro,Atropelamento,0.0,11
+865,Interferência de Terceiro,Abalroamento,0.0,19
+866,Material Rodante,Descarrilamento,11.2,14
+867,Via Permanente,Descarrilamento,30.1,14
+868,Interferência de Terceiro,Abalroamento,1.5,9
+869,Interferência de Terceiro,Abalroamento,0.8,16
+870,Interferência de Terceiro,Abalroamento,0.9,11
+871,Interferência de Terceiro,Atropelamento,0.0,18
+872,Via Permanente,Descarrilamento,12.2,18
+873,Via Permanente,Descarrilamento,13.0,9
+874,Interferência de Terceiro,Abalroamento,1.0,9
+875,Material Rodante,Descarrilamento,10.5,10
+876,Via Permanente,Descarrilamento,23.5,19
+877,Interferência de Terceiro,Abalroamento,0.6,2
+878,Interferência de Terceiro,Atropelamento,0.0,15
+879,Interferência de Terceiro,Atropelamento,0.0,18
+880,Via Permanente,Descarrilamento,3.0,3
+881,Interferência de Terceiro,Atropelamento,1.1,6
+882,Interferência de Terceiro,Abalroamento,1.4,18
+883,Interferência de Terceiro,Atropelamento,0.1,12
+884,Interferência de Terceiro,Abalroamento,0.2,10
+885,Via Permanente,Descarrilamento,3.0,0
+886,Interferência de Terceiro,Abalroamento,0.0,8
+887,Interferência de Terceiro,Abalroamento,5.2,1
+888,Interferência de Terceiro,Atropelamento,1.5,3
+889,Interferência de Terceiro,Atropelamento,0.0,10
+890,Via Permanente,Descarrilamento,14.5,15
+891,Via Permanente,Descarrilamento,14.8,5
+892,Interferência de Terceiro,Atropelamento,1.5,8
+893,Via Permanente,Descarrilamento,6.5,9
+894,Via Permanente,Descarrilamento,0.0,9
+895,Interferência de Terceiro,Atropelamento,2.4,12
+896,Interferência de Terceiro,Abalroamento,0.0,4
+897,Interferência de Terceiro,Abalroamento,0.3,16
+898,Interferência de Terceiro,Abalroamento,0.3,23
+899,Interferência de Terceiro,Abalroamento,0.0,15
+900,Interferência de Terceiro,Abalroamento,0.0,10
+901,Interferência de Terceiro,Abalroamento,0.0,11
+902,Material Rodante,Descarrilamento,6.0,14
+903,Material Rodante,Descarrilamento,0.0,0
+904,Material Rodante,Descarrilamento,8.0,7
+905,Interferência de Terceiro,Abalroamento,0.0,11
+906,Interferência de Terceiro,Abalroamento,1.5,16
+907,Interferência de Terceiro,Abalroamento,0.0,1
+908,Interferência de Terceiro,Atropelamento,0.0,11
+909,Interferência de Terceiro,Abalroamento,1.6,11
+910,Via Permanente,Descarrilamento,18.3,14
+911,Interferência de Terceiro,Abalroamento,0.2,18
+912,Via Permanente,Descarrilamento,35.9,12
+913,Via Permanente,Descarrilamento,0.0,12
+914,Interferência de Terceiro,Abalroamento,1.9,23
+915,Interferência de Terceiro,Abalroamento,0.1,15
+916,Interferência de Terceiro,Atropelamento,0.0,21
+917,Interferência de Terceiro,Abalroamento,0.0,18
+918,Interferência de Terceiro,Atropelamento,0.2,2
+919,Interferência de Terceiro,Abalroamento,0.0,12
+920,Interferência de Terceiro,Abalroamento,1.5,0
+921,Interferência de Terceiro,Atropelamento,1.4,1
+922,Via Permanente,Descarrilamento,28.2,2
+923,Interferência de Terceiro,Abalroamento,2.2,4
+924,Interferência de Terceiro,Abalroamento,1.5,8
+925,Material Rodante,Descarrilamento,0.0,14
+926,Interferência de Terceiro,Atropelamento,0.6,3
+927,Interferência de Terceiro,Incêndio,0.0,5
+928,Material Rodante,Descarrilamento,1.4,5
+929,Via Permanente,Descarrilamento,11.0,6
+930,Interferência de Terceiro,Abalroamento,0.5,7
+931,Interferência de Terceiro,Descarrilamento,7.2,8
+932,Interferência de Terceiro,Atropelamento,0.0,17
+933,Interferência de Terceiro,Abalroamento,1.1,20
+934,Via Permanente,Descarrilamento,0.0,6
+935,Interferência de Terceiro,Atropelamento,0.0,19
+936,Interferência de Terceiro,Abalroamento,3.2,21
+937,Interferência de Terceiro,Abalroamento,2.1,5
+938,Interferência de Terceiro,Abalroamento,1.0,5
+939,Via Permanente,Descarrilamento,3.0,2
+940,Interferência de Terceiro,Abalroamento,0.6,9
+941,Interferência de Terceiro,Abalroamento,1.0,12
+942,Via Permanente,Descarrilamento,16.0,13
+943,Via Permanente,Descarrilamento,32.2,17
+944,Via Permanente,Descarrilamento,11.2,13
+945,Interferência de Terceiro,Abalroamento,0.0,18
+946,Interferência de Terceiro,Atropelamento,0.0,8
+947,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,15
+948,Interferência de Terceiro,Abalroamento,1.3,4
+949,Interferência de Terceiro,Abalroamento,0.3,14
+950,Material Rodante,Descarrilamento,7.0,0
+951,Via Permanente,Descarrilamento,32.5,7
+952,Interferência de Terceiro,Atropelamento,1.6,8
+953,Interferência de Terceiro,Abalroamento,3.1,15
+954,Interferência de Terceiro,Abalroamento,11.0,9
+955,Interferência de Terceiro,Atropelamento,1.0,13
+956,Interferência de Terceiro,Atropelamento,1.2,3
+957,Interferência de Terceiro,Atropelamento,0.0,12
+958,Interferência de Terceiro,Abalroamento,0.0,8
+959,Interferência de Terceiro,Abalroamento,2.0,14
+960,Interferência de Terceiro,Abalroamento,0.9,15
+961,Interferência de Terceiro,Atropelamento,1.5,13
+962,Interferência de Terceiro,Abalroamento,3.7,21
+963,Casos Fortuitos ou de Força Maior,Descarrilamento,14.6,4
+964,Interferência de Terceiro,Abalroamento,1.0,5
+965,Interferência de Terceiro,Abalroamento,1.1,12
+966,Interferência de Terceiro,Abalroamento,4.7,13
+967,Material Rodante,Descarrilamento,19.6,1
+968,Material Rodante,Descarrilamento,7.5,1
+969,Interferência de Terceiro,Atropelamento,0.0,18
+970,Interferência de Terceiro,Abalroamento,0.4,21
+971,Interferência de Terceiro,Atropelamento,0.0,23
+972,Interferência de Terceiro,Atropelamento,2.5,6
+973,Via Permanente,Descarrilamento,14.9,9
+974,Interferência de Terceiro,Abalroamento,1.2,19
+975,Interferência de Terceiro,Abalroamento,4.3,21
+976,Interferência de Terceiro,Abalroamento,1.2,7
+977,Interferência de Terceiro,Abalroamento,1.2,13
+978,Via Permanente,Descarrilamento,6.2,6
+979,Interferência de Terceiro,Abalroamento,1.5,2
+980,Interferência de Terceiro,Atropelamento,0.2,17
+981,Interferência de Terceiro,Abalroamento,0.5,11
+982,Interferência de Terceiro,Abalroamento,0.0,17
+983,Interferência de Terceiro,Abalroamento,0.2,18
+984,Via Permanente,Descarrilamento,23.0,16
+985,Via Permanente,Descarrilamento,9.3,23
+986,Interferência de Terceiro,Atropelamento,1.3,0
+987,Interferência de Terceiro,Atropelamento,1.8,21
+988,Interferência de Terceiro,Atropelamento,2.0,9
+989,Material Rodante,Descarrilamento,32.0,10
+990,Via Permanente,Abalroamento,2.8,0
+991,Interferência de Terceiro,Abalroamento,1.0,15
+992,Material Rodante,Incêndio,0.0,19
+993,Interferência de Terceiro,Atropelamento,3.3,14
+994,Material Rodante,Descarrilamento,5.0,21
+995,Via Permanente,Descarrilamento,8.4,4
+996,Via Permanente,Descarrilamento,8.1,5
+997,Material Rodante,Descarrilamento,6.0,7
+998,Interferência de Terceiro,Abalroamento,4.0,9
+999,Via Permanente,Descarrilamento,14.5,11
+1000,Interferência de Terceiro,Abalroamento,0.0,13
+1001,Interferência de Terceiro,Atropelamento,3.9,18
+1002,Interferência de Terceiro,Atropelamento,0.0,20
+1003,Interferência de Terceiro,Abalroamento,1.1,17
+1004,Interferência de Terceiro,Atropelamento,0.0,19
+1005,Interferência de Terceiro,Abalroamento,0.2,22
+1006,Interferência de Terceiro,Atropelamento,0.0,7
+1007,Interferência de Terceiro,Abalroamento,0.8,12
+1008,Interferência de Terceiro,Atropelamento,5.0,15
+1009,Material Rodante,Incêndio,5.4,10
+1010,Via Permanente,Descarrilamento,20.0,12
+1011,Interferência de Terceiro,Abalroamento,4.3,21
+1012,Interferência de Terceiro,Abalroamento,2.0,21
+1013,Interferência de Terceiro,Atropelamento,0.1,12
+1014,Via Permanente,Descarrilamento,3.1,14
+1015,Interferência de Terceiro,Abalroamento,0.3,17
+1016,Interferência de Terceiro,Atropelamento,0.5,14
+1017,Interferência de Terceiro,Atropelamento,0.0,16
+1018,Interferência de Terceiro,Abalroamento,0.0,22
+1019,Interferência de Terceiro,Atropelamento,1.0,4
+1020,Interferência de Terceiro,Atropelamento,0.0,14
+1021,Interferência de Terceiro,Abalroamento,1.0,19
+1022,Casos Fortuitos ou de Força Maior,Colisão,0.0,19
+1023,Falha Humana,Colisão,0.0,19
+1024,Interferência de Terceiro,Abalroamento,1.2,1
+1025,Interferência de Terceiro,Atropelamento,6.1,7
+1026,Interferência de Terceiro,Atropelamento,0.1,15
+1027,Interferência de Terceiro,Abalroamento,0.1,18
+1028,Interferência de Terceiro,Abalroamento,0.0,14
+1029,Interferência de Terceiro,Abalroamento,1.4,20
+1030,Interferência de Terceiro,Atropelamento,0.5,10
+1031,Interferência de Terceiro,Atropelamento,1.0,5
+1032,Interferência de Terceiro,Atropelamento,1.2,10
+1033,Interferência de Terceiro,Atropelamento,0.2,11
+1034,Interferência de Terceiro,Atropelamento,2.0,13
+1035,Via Permanente,Descarrilamento,75.2,15
+1036,Interferência de Terceiro,Atropelamento,2.0,18
+1037,Interferência de Terceiro,Abalroamento,2.9,1
+1038,Via Permanente,Descarrilamento,7.9,4
+1039,Interferência de Terceiro,Atropelamento,0.4,12
+1040,Interferência de Terceiro,Abalroamento,0.2,7
+1041,Interferência de Terceiro,Atropelamento,0.5,8
+1042,Via Permanente,Descarrilamento,15.2,16
+1043,Interferência de Terceiro,Abalroamento,2.5,1
+1044,Via Permanente,Descarrilamento,8.3,4
+1045,Interferência de Terceiro,Atropelamento,0.0,13
+1046,Interferência de Terceiro,Atropelamento,2.6,17
+1047,Via Permanente,Descarrilamento,0.0,19
+1048,Interferência de Terceiro,Atropelamento,0.0,20
+1049,Material Rodante,Descarrilamento,6.0,21
+1050,Interferência de Terceiro,Atropelamento,1.5,6
+1051,Interferência de Terceiro,Atropelamento,2.9,17
+1052,Interferência de Terceiro,Abalroamento,5.0,3
+1053,Interferência de Terceiro,Atropelamento,1.2,9
+1054,Interferência de Terceiro,Abalroamento,1.9,10
+1055,Interferência de Terceiro,Atropelamento,0.0,11
+1056,Material Rodante,Descarrilamento,7.2,12
+1057,Material Rodante,Descarrilamento,28.0,4
+1058,Interferência de Terceiro,Atropelamento,0.0,8
+1059,Interferência de Terceiro,Abalroamento,0.0,19
+1060,Interferência de Terceiro,Abalroamento,5.9,8
+1061,Interferência de Terceiro,Abalroamento,0.3,9
+1062,Interferência de Terceiro,Abalroamento,1.6,17
+1063,Interferência de Terceiro,Atropelamento,0.0,12
+1064,Interferência de Terceiro,Abalroamento,1.0,1
+1065,Via Permanente,Descarrilamento,0.0,11
+1066,Material Rodante,Descarrilamento,3.1,12
+1067,Via Permanente,Descarrilamento,32.5,13
+1068,Interferência de Terceiro,Atropelamento,1.2,2
+1069,Material Rodante,Descarrilamento,22.0,14
+1070,Via Permanente,Descarrilamento,7.5,10
+1071,Interferência de Terceiro,Abalroamento,0.0,9
+1072,Via Permanente,Descarrilamento,3.7,14
+1073,Interferência de Terceiro,Abalroamento,1.1,15
+1074,Interferência de Terceiro,Abalroamento,0.0,19
+1075,Via Permanente,Descarrilamento,9.1,20
+1076,Interferência de Terceiro,Abalroamento,0.5,7
+1077,Via Permanente,Descarrilamento,5.9,6
+1078,Via Permanente,Descarrilamento,14.7,12
+1079,Interferência de Terceiro,Abalroamento,0.2,13
+1080,Interferência de Terceiro,Abalroamento,2.0,10
+1081,Interferência de Terceiro,Abalroamento,2.1,16
+1082,Interferência de Terceiro,Atropelamento,0.0,17
+1083,Interferência de Terceiro,Abalroamento,2.2,4
+1084,Interferência de Terceiro,Atropelamento,0.0,17
+1085,Interferência de Terceiro,Atropelamento,0.2,19
+1086,Interferência de Terceiro,Abalroamento,0.3,6
+1087,Interferência de Terceiro,Abalroamento,0.5,10
+1088,Interferência de Terceiro,Abalroamento,0.0,13
+1089,Interferência de Terceiro,Atropelamento,0.1,15
+1090,Interferência de Terceiro,Abalroamento,0.8,9
+1091,Interferência de Terceiro,Atropelamento,0.0,4
+1092,Material Rodante,Descarrilamento,0.0,21
+1093,Via Permanente,Descarrilamento,5.4,15
+1094,Interferência de Terceiro,Atropelamento,2.0,18
+1095,Interferência de Terceiro,Atropelamento,0.0,23
+1096,Casos Fortuitos ou de Força Maior,Descarrilamento,8.9,8
+1097,Interferência de Terceiro,Atropelamento,0.0,12
+1098,Interferência de Terceiro,Atropelamento,1.0,16
+1099,Interferência de Terceiro,Atropelamento,1.2,18
+1100,Interferência de Terceiro,Abalroamento,0.0,20
+1101,Falha Humana,Abalroamento,0.0,12
+1102,Material Rodante,Descarrilamento,9.5,6
+1103,Interferência de Terceiro,Atropelamento,0.3,13
+1104,Interferência de Terceiro,Atropelamento,4.7,21
+1105,Via Permanente,Descarrilamento,25.0,13
+1106,Interferência de Terceiro,Atropelamento,2.9,22
+1107,Interferência de Terceiro,Abalroamento,0.2,19
+1108,Interferência de Terceiro,Abalroamento,2.0,6
+1109,Via Permanente,Descarrilamento,27.7,10
+1110,Interferência de Terceiro,Abalroamento,2.0,12
+1111,Interferência de Terceiro,Atropelamento,0.0,17
+1112,Via Permanente,Descarrilamento,10.6,3
+1113,Falha Humana,Descarrilamento,20.0,23
+1114,Material Rodante,Descarrilamento,5.2,0
+1115,Interferência de Terceiro,Abalroamento,1.0,12
+1116,Interferência de Terceiro,Atropelamento,1.3,16
+1117,Interferência de Terceiro,Atropelamento,0.2,17
+1118,Casos Fortuitos ou de Força Maior,Colisão,0.0,20
+1119,Via Permanente,Descarrilamento,0.0,16
+1120,Interferência de Terceiro,Atropelamento,0.6,17
+1121,Via Permanente,Descarrilamento,21.5,12
+1122,Interferência de Terceiro,Incêndio,0.0,13
+1123,Interferência de Terceiro,Atropelamento,1.8,7
+1124,Interferência de Terceiro,Abalroamento,2.1,11
+1125,Interferência de Terceiro,Atropelamento,0.0,6
+1126,Via Permanente,Descarrilamento,12.5,9
+1127,Interferência de Terceiro,Atropelamento,1.0,15
+1128,Interferência de Terceiro,Atropelamento,0.3,11
+1129,Interferência de Terceiro,Abalroamento,0.4,19
+1130,Interferência de Terceiro,Abalroamento,0.2,11
+1131,Interferência de Terceiro,Abalroamento,0.0,16
+1132,Interferência de Terceiro,Abalroamento,1.0,18
+1133,Interferência de Terceiro,Abalroamento,0.0,6
+1134,Interferência de Terceiro,Abalroamento,0.0,14
+1135,Interferência de Terceiro,Abalroamento,0.5,20
+1136,Interferência de Terceiro,Abalroamento,2.1,10
+1137,Via Permanente,Descarrilamento,0.0,18
+1138,Interferência de Terceiro,Abalroamento,0.3,1
+1139,Interferência de Terceiro,Abalroamento,0.0,14
+1140,Via Permanente,Descarrilamento,9.0,18
+1141,Interferência de Terceiro,Atropelamento,3.3,18
+1142,Interferência de Terceiro,Abalroamento,2.0,19
+1143,Interferência de Terceiro,Abalroamento,1.1,19
+1144,Interferência de Terceiro,Abalroamento,0.0,10
+1145,Via Permanente,Descarrilamento,2.0,13
+1146,Falha Humana,Colisão,0.0,17
+1147,Interferência de Terceiro,Atropelamento,2.0,20
+1148,Interferência de Terceiro,Atropelamento,0.0,13
+1149,Interferência de Terceiro,Abalroamento,1.4,16
+1150,Interferência de Terceiro,Atropelamento,0.1,18
+1151,Via Permanente,Descarrilamento,23.0,6
+1152,Interferência de Terceiro,Abalroamento,4.5,16
+1153,Via Permanente,Descarrilamento,3.7,21
+1154,Via Permanente,Descarrilamento,6.1,12
+1155,Via Permanente,Descarrilamento,7.4,18
+1156,Via Permanente,Descarrilamento,17.2,21
+1157,Interferência de Terceiro,Abalroamento,0.4,14
+1158,Interferência de Terceiro,Atropelamento,2.0,0
+1159,Interferência de Terceiro,Abalroamento,0.0,2
+1160,Interferência de Terceiro,Abalroamento,2.4,7
+1161,Interferência de Terceiro,Atropelamento,4.0,12
+1162,Interferência de Terceiro,Abalroamento,0.3,13
+1163,Material Rodante,Descarrilamento,4.5,22
+1164,Interferência de Terceiro,Abalroamento,0.2,18
+1165,Interferência de Terceiro,Atropelamento,3.1,13
+1166,Interferência de Terceiro,Atropelamento,1.3,19
+1167,Interferência de Terceiro,Abalroamento,2.4,20
+1168,Interferência de Terceiro,Abalroamento,0.2,21
+1169,Interferência de Terceiro,Abalroamento,2.5,13
+1170,Via Permanente,Descarrilamento,13.9,14
+1171,Interferência de Terceiro,Abalroamento,0.1,16
+1172,Interferência de Terceiro,Abalroamento,4.9,19
+1173,Interferência de Terceiro,Abalroamento,2.5,10
+1174,Interferência de Terceiro,Atropelamento,2.4,14
+1175,Interferência de Terceiro,Abalroamento,0.8,20
+1176,Via Permanente,Descarrilamento,7.1,16
+1177,Interferência de Terceiro,Abalroamento,2.7,5
+1178,Interferência de Terceiro,Atropelamento,0.1,15
+1179,Interferência de Terceiro,Atropelamento,2.0,15
+1180,Interferência de Terceiro,Abalroamento,0.6,19
+1181,Interferência de Terceiro,Abalroamento,1.2,8
+1182,Interferência de Terceiro,Abalroamento,0.0,18
+1183,Interferência de Terceiro,Abalroamento,0.1,22
+1184,Interferência de Terceiro,Atropelamento,0.0,4
+1185,Via Permanente,Descarrilamento,46.0,11
+1186,Interferência de Terceiro,Abalroamento,0.8,11
+1187,Interferência de Terceiro,Abalroamento,1.1,13
+1188,Interferência de Terceiro,Atropelamento,1.5,23
+1189,Casos Fortuitos ou de Força Maior,Descarrilamento,23.0,6
+1190,Outras Causas,Descarrilamento,18.3,12
+1191,Material Rodante,Descarrilamento,0.0,4
+1192,Interferência de Terceiro,Atropelamento,1.0,18
+1193,Interferência de Terceiro,Abalroamento,0.3,20
+1194,Interferência de Terceiro,Atropelamento,1.5,20
+1195,Interferência de Terceiro,Abalroamento,0.0,3
+1196,Interferência de Terceiro,Atropelamento,1.4,6
+1197,Interferência de Terceiro,Abalroamento,0.4,19
+1198,Interferência de Terceiro,Descarrilamento,1.0,10
+1199,Via Permanente,Descarrilamento,9.6,14
+1200,Interferência de Terceiro,Atropelamento,0.0,20
+1201,Via Permanente,Descarrilamento,15.8,5
+1202,Via Permanente,Descarrilamento,9.4,8
+1203,Interferência de Terceiro,Abalroamento,1.3,12
+1204,Via Permanente,Descarrilamento,24.0,12
+1205,Interferência de Terceiro,Atropelamento,1.5,17
+1206,Interferência de Terceiro,Abalroamento,0.2,23
+1207,Via Permanente,Descarrilamento,23.4,14
+1208,Interferência de Terceiro,Atropelamento,1.0,18
+1209,Interferência de Terceiro,Abalroamento,0.0,19
+1210,Interferência de Terceiro,Atropelamento,0.6,5
+1211,Via Permanente,Descarrilamento,16.2,12
+1212,Interferência de Terceiro,Abalroamento,0.0,0
+1213,Interferência de Terceiro,Abalroamento,0.0,13
+1214,Via Permanente,Descarrilamento,0.0,13
+1215,Interferência de Terceiro,Atropelamento,1.4,15
+1216,Interferência de Terceiro,Abalroamento,1.5,9
+1217,Interferência de Terceiro,Abalroamento,2.1,8
+1218,Interferência de Terceiro,Abalroamento,1.7,9
+1219,Interferência de Terceiro,Atropelamento,2.1,2
+1220,Interferência de Terceiro,Abalroamento,0.0,9
+1221,Via Permanente,Descarrilamento,3.5,11
+1222,Interferência de Terceiro,Atropelamento,0.0,13
+1223,Material Rodante,Descarrilamento,5.5,0
+1224,Interferência de Terceiro,Abalroamento,3.3,10
+1225,Interferência de Terceiro,Atropelamento,3.3,20
+1226,Interferência de Terceiro,Abalroamento,0.0,1
+1227,Interferência de Terceiro,Abalroamento,0.3,8
+1228,Interferência de Terceiro,Abalroamento,2.5,8
+1229,Interferência de Terceiro,Atropelamento,0.0,1
+1230,Interferência de Terceiro,Abalroamento,2.5,2
+1231,Interferência de Terceiro,Abalroamento,0.0,8
+1232,Material Rodante,Descarrilamento,7.3,12
+1233,Via Permanente,Descarrilamento,10.8,14
+1234,Interferência de Terceiro,Atropelamento,0.0,14
+1235,Via Permanente,Descarrilamento,4.3,16
+1236,Via Permanente,Descarrilamento,7.4,14
+1237,Interferência de Terceiro,Abalroamento,0.0,18
+1238,Interferência de Terceiro,Abalroamento,0.0,18
+1239,Interferência de Terceiro,Abalroamento,1.0,9
+1240,Interferência de Terceiro,Abalroamento,0.2,15
+1241,Interferência de Terceiro,Abalroamento,0.0,16
+1242,Interferência de Terceiro,Abalroamento,0.0,14
+1243,Interferência de Terceiro,Atropelamento,1.0,1
+1244,Interferência de Terceiro,Atropelamento,0.0,2
+1245,Interferência de Terceiro,Abalroamento,2.0,20
+1246,Interferência de Terceiro,Abalroamento,2.0,23
+1247,Interferência de Terceiro,Atropelamento,4.4,1
+1248,Interferência de Terceiro,Abalroamento,0.0,19
+1249,Interferência de Terceiro,Abalroamento,1.0,12
+1250,Interferência de Terceiro,Abalroamento,0.0,12
+1251,Interferência de Terceiro,Abalroamento,1.3,18
+1252,Interferência de Terceiro,Atropelamento,6.8,6
+1253,Interferência de Terceiro,Atropelamento,0.0,7
+1254,Via Permanente,Descarrilamento,73.7,11
+1255,Interferência de Terceiro,Abalroamento,0.0,12
+1256,Interferência de Terceiro,Abalroamento,2.1,18
+1257,Interferência de Terceiro,Atropelamento,2.5,3
+1258,Interferência de Terceiro,Atropelamento,2.0,7
+1259,Interferência de Terceiro,Abalroamento,0.7,8
+1260,Interferência de Terceiro,Abalroamento,1.0,11
+1261,Interferência de Terceiro,Abalroamento,1.3,1
+1262,Interferência de Terceiro,Abalroamento,0.1,4
+1263,Interferência de Terceiro,Atropelamento,0.0,11
+1264,Interferência de Terceiro,Abalroamento,0.5,10
+1265,Interferência de Terceiro,Abalroamento,0.6,10
+1266,Via Permanente,Descarrilamento,11.2,13
+1267,Interferência de Terceiro,Abalroamento,0.0,14
+1268,Interferência de Terceiro,Atropelamento,2.0,19
+1269,Interferência de Terceiro,Abalroamento,1.1,2
+1270,Interferência de Terceiro,Atropelamento,0.0,16
+1271,Interferência de Terceiro,Atropelamento,3.4,17
+1272,Interferência de Terceiro,Atropelamento,0.6,21
+1273,Interferência de Terceiro,Abalroamento,0.0,21
+1274,Material Rodante,Descarrilamento,0.0,22
+1275,Interferência de Terceiro,Atropelamento,4.0,3
+1276,Interferência de Terceiro,Abalroamento,0.2,4
+1277,Via Permanente,Descarrilamento,14.2,4
+1278,Interferência de Terceiro,Atropelamento,0.5,9
+1279,Interferência de Terceiro,Abalroamento,3.2,9
+1280,Interferência de Terceiro,Abalroamento,1.4,13
+1281,Interferência de Terceiro,Abalroamento,0.0,17
+1282,Interferência de Terceiro,Abalroamento,5.0,16
+1283,Interferência de Terceiro,Abalroamento,0.4,11
+1284,Via Permanente,Descarrilamento,49.0,14
+1285,Interferência de Terceiro,Abalroamento,0.0,20
+1286,Interferência de Terceiro,Abalroamento,0.3,7
+1287,Interferência de Terceiro,Atropelamento,0.6,9
+1288,Interferência de Terceiro,Atropelamento,0.0,6
+1289,Interferência de Terceiro,Abalroamento,0.0,14
+1290,Interferência de Terceiro,Abalroamento,0.0,17
+1291,Interferência de Terceiro,Abalroamento,0.2,18
+1292,Interferência de Terceiro,Atropelamento,2.2,11
+1293,Via Permanente,Descarrilamento,8.6,6
+1294,Casos Fortuitos ou de Força Maior,Colisão,0.0,7
+1295,Interferência de Terceiro,Atropelamento,0.4,8
+1296,Interferência de Terceiro,Abalroamento,0.0,10
+1297,Interferência de Terceiro,Abalroamento,0.3,11
+1298,Falha Humana,Descarrilamento,0.0,16
+1299,Interferência de Terceiro,Atropelamento,0.5,19
+1300,Interferência de Terceiro,Abalroamento,1.8,20
+1301,Via Permanente,Descarrilamento,0.0,4
+1302,Interferência de Terceiro,Abalroamento,0.0,12
+1303,Via Permanente,Descarrilamento,28.0,12
+1304,Via Permanente,Descarrilamento,2.5,20
+1305,Interferência de Terceiro,Abalroamento,0.0,22
+1306,Interferência de Terceiro,Abalroamento,0.0,23
+1307,Interferência de Terceiro,Abalroamento,0.0,13
+1308,Interferência de Terceiro,Abalroamento,0.0,20
+1309,Interferência de Terceiro,Atropelamento,0.5,21
+1310,Via Permanente,Descarrilamento,11.6,22
+1311,Interferência de Terceiro,Atropelamento,1.0,1
+1312,Interferência de Terceiro,Abalroamento,0.0,13
+1313,Interferência de Terceiro,Atropelamento,0.0,3
+1314,Interferência de Terceiro,Atropelamento,0.5,4
+1315,Interferência de Terceiro,Atropelamento,3.0,6
+1316,Via Permanente,Descarrilamento,21.3,13
+1317,Falha Humana,Colisão,0.0,8
+1318,Via Permanente,Descarrilamento,8.5,9
+1319,Interferência de Terceiro,Abalroamento,2.0,21
+1320,Interferência de Terceiro,Atropelamento,1.4,8
+1321,Interferência de Terceiro,Abalroamento,2.0,8
+1322,Material Rodante,Descarrilamento,0.4,11
+1323,Interferência de Terceiro,Abalroamento,0.2,14
+1324,Via Permanente,Descarrilamento,7.0,5
+1325,Interferência de Terceiro,Abalroamento,1.0,9
+1326,Interferência de Terceiro,Abalroamento,0.4,10
+1327,Interferência de Terceiro,Abalroamento,0.3,16
+1328,Via Permanente,Descarrilamento,7.2,17
+1329,Interferência de Terceiro,Abalroamento,1.0,5
+1330,Interferência de Terceiro,Atropelamento,0.4,13
+1331,Interferência de Terceiro,Atropelamento,0.0,16
+1332,Interferência de Terceiro,Abalroamento,0.4,18
+1333,Interferência de Terceiro,Atropelamento,1.1,19
+1334,Interferência de Terceiro,Atropelamento,0.5,19
+1335,Interferência de Terceiro,Abalroamento,1.2,21
+1336,Interferência de Terceiro,Atropelamento,1.1,1
+1337,Interferência de Terceiro,Abalroamento,0.1,8
+1338,Interferência de Terceiro,Atropelamento,0.4,23
+1339,Interferência de Terceiro,Atropelamento,0.3,7
+1340,Interferência de Terceiro,Abalroamento,1.4,23
+1341,Via Permanente,Descarrilamento,35.3,15
+1342,Interferência de Terceiro,Atropelamento,0.3,17
+1343,Interferência de Terceiro,Abalroamento,1.9,23
+1344,Interferência de Terceiro,Abalroamento,1.3,1
+1345,Interferência de Terceiro,Abalroamento,0.0,3
+1346,Material Rodante,Descarrilamento,0.0,13
+1347,Interferência de Terceiro,Abalroamento,2.0,19
+1348,Interferência de Terceiro,Abalroamento,2.5,0
+1349,Interferência de Terceiro,Atropelamento,4.0,6
+1350,Via Permanente,Descarrilamento,10.9,21
+1351,Interferência de Terceiro,Atropelamento,0.5,17
+1352,Interferência de Terceiro,Atropelamento,1.1,17
+1353,Interferência de Terceiro,Abalroamento,0.0,19
+1354,Via Permanente,Descarrilamento,12.5,21
+1355,Interferência de Terceiro,Atropelamento,0.0,18
+1356,Interferência de Terceiro,Atropelamento,0.0,6
+1357,Interferência de Terceiro,Atropelamento,0.0,12
+1358,Interferência de Terceiro,Abalroamento,0.4,2
+1359,Interferência de Terceiro,Atropelamento,0.0,5
+1360,Interferência de Terceiro,Atropelamento,6.0,10
+1361,Interferência de Terceiro,Abalroamento,0.0,18
+1362,Interferência de Terceiro,Abalroamento,0.3,3
+1363,Via Permanente,Descarrilamento,22.4,13
+1364,Interferência de Terceiro,Abalroamento,0.6,21
+1365,Interferência de Terceiro,Atropelamento,0.0,14
+1366,Interferência de Terceiro,Abalroamento,0.2,18
+1367,Interferência de Terceiro,Abalroamento,0.0,0
+1368,Interferência de Terceiro,Atropelamento,2.5,4
+1369,Interferência de Terceiro,Abalroamento,4.0,7
+1370,Interferência de Terceiro,Abalroamento,0.7,14
+1371,Interferência de Terceiro,Abalroamento,0.8,16
+1372,Via Permanente,Descarrilamento,32.5,18
+1373,Via Permanente,Descarrilamento,0.0,8
+1374,Via Permanente,Descarrilamento,9.1,1
+1375,Interferência de Terceiro,Abalroamento,0.7,9
+1376,Interferência de Terceiro,Abalroamento,0.2,11
+1377,Interferência de Terceiro,Atropelamento,3.3,21
+1378,Via Permanente,Descarrilamento,24.0,7
+1379,Interferência de Terceiro,Abalroamento,3.0,8
+1380,Interferência de Terceiro,Abalroamento,0.0,9
+1381,Via Permanente,Descarrilamento,44.7,6
+1382,Interferência de Terceiro,Atropelamento,3.0,17
+1383,Casos Fortuitos ou de Força Maior,Atropelamento,6.0,18
+1384,Interferência de Terceiro,Abalroamento,0.8,18
+1385,Interferência de Terceiro,Atropelamento,0.0,19
+1386,Interferência de Terceiro,Abalroamento,1.3,23
+1387,Casos Fortuitos ou de Força Maior,Descarrilamento,21.5,4
+1388,Via Permanente,Descarrilamento,9.3,11
+1389,Interferência de Terceiro,Atropelamento,0.0,11
+1390,Via Permanente,Descarrilamento,6.1,15
+1391,Interferência de Terceiro,Atropelamento,2.0,21
+1392,Material Rodante,Descarrilamento,0.5,12
+1393,Interferência de Terceiro,Abalroamento,0.5,17
+1394,Interferência de Terceiro,Abalroamento,0.1,19
+1395,Interferência de Terceiro,Abalroamento,0.0,19
+1396,Interferência de Terceiro,Abalroamento,2.8,19
+1397,Interferência de Terceiro,Abalroamento,0.0,19
+1398,Interferência de Terceiro,Atropelamento,3.4,5
+1399,Material Rodante,Descarrilamento,22.0,13
+1400,Interferência de Terceiro,Atropelamento,2.9,22
+1401,Interferência de Terceiro,Atropelamento,2.4,6
+1402,Interferência de Terceiro,Atropelamento,0.0,12
+1403,Interferência de Terceiro,Atropelamento,0.0,15
+1404,Interferência de Terceiro,Atropelamento,2.2,17
+1405,Interferência de Terceiro,Atropelamento,2.2,0
+1406,Interferência de Terceiro,Abalroamento,0.0,4
+1407,Falha Humana,Colisão,0.0,13
+1408,Interferência de Terceiro,Descarrilamento,4.0,16
+1409,Via Permanente,Descarrilamento,0.0,17
+1410,Interferência de Terceiro,Atropelamento,0.3,11
+1411,Casos Fortuitos ou de Força Maior,Atropelamento,2.0,22
+1412,Interferência de Terceiro,Abalroamento,4.1,14
+1413,Interferência de Terceiro,Abalroamento,1.3,18
+1414,Interferência de Terceiro,Abalroamento,0.0,20
+1415,Interferência de Terceiro,Abalroamento,0.0,7
+1416,Interferência de Terceiro,Abalroamento,0.0,14
+1417,Via Permanente,Descarrilamento,8.6,14
+1418,Via Permanente,Descarrilamento,0.0,15
+1419,Interferência de Terceiro,Abalroamento,0.0,18
+1420,Interferência de Terceiro,Atropelamento,0.0,11
+1421,Interferência de Terceiro,Abalroamento,0.0,18
+1422,Interferência de Terceiro,Abalroamento,1.3,22
+1423,Interferência de Terceiro,Atropelamento,2.0,2
+1424,Falha Humana,Descarrilamento,9.7,6
+1425,Interferência de Terceiro,Abalroamento,1.5,8
+1426,Via Permanente,Descarrilamento,9.0,12
+1427,Via Permanente,Descarrilamento,0.0,15
+1428,Interferência de Terceiro,Atropelamento,0.4,18
+1429,Via Permanente,Descarrilamento,2.0,0
+1430,Interferência de Terceiro,Abalroamento,0.0,4
+1431,Interferência de Terceiro,Abalroamento,4.6,8
+1432,Interferência de Terceiro,Abalroamento,2.8,9
+1433,Interferência de Terceiro,Abalroamento,1.7,0
+1434,Via Permanente,Descarrilamento,7.2,16
+1435,Material Rodante,Incêndio,0.0,18
+1436,Interferência de Terceiro,Abalroamento,2.4,8
+1437,Interferência de Terceiro,Atropelamento,0.0,9
+1438,Interferência de Terceiro,Abalroamento,0.0,20
+1439,Interferência de Terceiro,Abalroamento,2.7,23
+1440,Interferência de Terceiro,Atropelamento,1.9,11
+1441,Interferência de Terceiro,Abalroamento,1.3,15
+1442,Interferência de Terceiro,Atropelamento,0.0,17
+1443,Interferência de Terceiro,Atropelamento,0.1,18
+1444,Interferência de Terceiro,Atropelamento,0.6,12
+1445,Falha Humana,Descarrilamento,3.0,14
+1446,Interferência de Terceiro,Abalroamento,0.2,15
+1447,Via Permanente,Colisão,26.3,0
+1448,Via Permanente,Descarrilamento,23.8,11
+1449,Interferência de Terceiro,Abalroamento,2.3,18
+1450,Interferência de Terceiro,Atropelamento,0.5,18
+1451,Interferência de Terceiro,Atropelamento,0.0,19
+1452,Interferência de Terceiro,Atropelamento,0.0,15
+1453,Interferência de Terceiro,Abalroamento,1.0,14
+1454,Via Permanente,Descarrilamento,0.0,16
+1455,Interferência de Terceiro,Atropelamento,1.9,18
+1456,Via Permanente,Descarrilamento,7.2,9
+1457,Interferência de Terceiro,Abalroamento,0.3,7
+1458,Interferência de Terceiro,Atropelamento,0.3,19
+1459,Interferência de Terceiro,Abalroamento,0.2,12
+1460,Interferência de Terceiro,Abalroamento,1.3,12
+1461,Interferência de Terceiro,Abalroamento,0.4,1
+1462,Interferência de Terceiro,Abalroamento,2.0,12
+1463,Interferência de Terceiro,Atropelamento,0.5,16
+1464,Interferência de Terceiro,Abalroamento,1.5,21
+1465,Interferência de Terceiro,Abalroamento,0.0,18
+1466,Via Permanente,Descarrilamento,40.0,19
+1467,Interferência de Terceiro,Abalroamento,0.8,8
+1468,Interferência de Terceiro,Atropelamento,1.0,15
+1469,Interferência de Terceiro,Atropelamento,0.5,16
+1470,Interferência de Terceiro,Abalroamento,0.7,0
+1471,Interferência de Terceiro,Atropelamento,0.0,0
+1472,Via Permanente,Descarrilamento,4.0,7
+1473,Material Rodante,Descarrilamento,10.8,11
+1474,Interferência de Terceiro,Abalroamento,1.2,12
+1475,Interferência de Terceiro,Abalroamento,0.2,12
+1476,Interferência de Terceiro,Abalroamento,1.0,7
+1477,Interferência de Terceiro,Abalroamento,0.0,23
+1478,Via Permanente,Descarrilamento,17.3,6
+1479,Interferência de Terceiro,Atropelamento,0.0,8
+1480,Interferência de Terceiro,Abalroamento,1.3,21
+1481,Interferência de Terceiro,Abalroamento,0.0,0
+1482,Interferência de Terceiro,Atropelamento,4.1,1
+1483,Interferência de Terceiro,Abalroamento,2.8,3
+1484,Via Permanente,Descarrilamento,0.0,15
+1485,Interferência de Terceiro,Abalroamento,0.9,17
+1486,Interferência de Terceiro,Atropelamento,0.0,18
+1487,Interferência de Terceiro,Atropelamento,1.8,19
+1488,Via Permanente,Descarrilamento,12.5,14
+1489,Interferência de Terceiro,Abalroamento,0.1,17
+1490,Interferência de Terceiro,Abalroamento,0.7,19
+1491,Interferência de Terceiro,Abalroamento,0.3,7
+1492,Interferência de Terceiro,Atropelamento,3.6,23
+1493,Material Rodante,Descarrilamento,0.0,14
+1494,Interferência de Terceiro,Atropelamento,1.3,5
+1495,Interferência de Terceiro,Abalroamento,0.3,6
+1496,Interferência de Terceiro,Abalroamento,1.9,7
+1497,Interferência de Terceiro,Abalroamento,0.3,3
+1498,Interferência de Terceiro,Abalroamento,0.2,10
+1499,Via Permanente,Descarrilamento,13.8,15
+1500,Interferência de Terceiro,Atropelamento,0.0,1
+1501,Interferência de Terceiro,Descarrilamento,41.0,4
+1502,Interferência de Terceiro,Abalroamento,0.4,8
+1503,Interferência de Terceiro,Atropelamento,1.8,16
+1504,Falha Humana,Atropelamento,6.8,2
+1505,Interferência de Terceiro,Abalroamento,0.5,9
+1506,Interferência de Terceiro,Atropelamento,0.0,9
+1507,Interferência de Terceiro,Atropelamento,3.0,11
+1508,Interferência de Terceiro,Abalroamento,0.0,18
+1509,Via Permanente,Descarrilamento,11.0,0
+1510,Interferência de Terceiro,Atropelamento,1.3,9
+1511,Interferência de Terceiro,Abalroamento,0.9,12
+1512,Interferência de Terceiro,Atropelamento,0.6,12
+1513,Interferência de Terceiro,Atropelamento,2.2,17
+1514,Interferência de Terceiro,Abalroamento,1.0,18
+1515,Interferência de Terceiro,Abalroamento,4.4,19
+1516,Via Permanente,Descarrilamento,0.0,12
+1517,Via Permanente,Descarrilamento,0.0,15
+1518,Interferência de Terceiro,Atropelamento,2.9,16
+1519,Interferência de Terceiro,Abalroamento,0.4,17
+1520,Interferência de Terceiro,Atropelamento,0.0,19
+1521,Interferência de Terceiro,Atropelamento,1.1,17
+1522,Interferência de Terceiro,Abalroamento,2.5,9
+1523,Interferência de Terceiro,Atropelamento,0.0,9
+1524,Via Permanente,Descarrilamento,0.0,16
+1525,Via Permanente,Descarrilamento,21.8,13
+1526,Via Permanente,Descarrilamento,16.1,13
+1527,Interferência de Terceiro,Abalroamento,0.0,21
+1528,Interferência de Terceiro,Abalroamento,0.6,23
+1529,Interferência de Terceiro,Abalroamento,2.4,3
+1530,Interferência de Terceiro,Abalroamento,0.0,8
+1531,Interferência de Terceiro,Abalroamento,3.3,18
+1532,Material Rodante,Descarrilamento,23.9,23
+1533,Interferência de Terceiro,Abalroamento,2.1,1
+1534,Material Rodante,Descarrilamento,4.3,18
+1535,Via Permanente,Descarrilamento,5.5,5
+1536,Interferência de Terceiro,Abalroamento,0.3,6
+1537,Via Permanente,Descarrilamento,8.0,23
+1538,Interferência de Terceiro,Atropelamento,1.0,18
+1539,Via Permanente,Descarrilamento,0.1,10
+1540,Interferência de Terceiro,Atropelamento,1.7,6
+1541,Interferência de Terceiro,Abalroamento,0.9,21
+1542,Interferência de Terceiro,Abalroamento,0.8,23
+1543,Interferência de Terceiro,Abalroamento,0.0,20
+1544,Material Rodante,Descarrilamento,0.0,2
+1545,Interferência de Terceiro,Abalroamento,0.0,5
+1546,Interferência de Terceiro,Atropelamento,1.0,11
+1547,Interferência de Terceiro,Abalroamento,1.7,12
+1548,Interferência de Terceiro,Atropelamento,0.0,20
+1549,Interferência de Terceiro,Atropelamento,0.0,15
+1550,Interferência de Terceiro,Atropelamento,2.0,18
+1551,Interferência de Terceiro,Abalroamento,4.3,10
+1552,Gestão,Descarrilamento,14.8,21
+1553,Casos Fortuitos ou de Força Maior,Descarrilamento,4.8,18
+1554,Interferência de Terceiro,Abalroamento,0.5,2
+1555,Interferência de Terceiro,Atropelamento,1.8,3
+1556,Material Rodante,Descarrilamento,6.0,18
+1557,Interferência de Terceiro,Atropelamento,0.5,13
+1558,Interferência de Terceiro,Atropelamento,3.0,15
+1559,Interferência de Terceiro,Abalroamento,1.0,0
+1560,Interferência de Terceiro,Abalroamento,0.0,7
+1561,Interferência de Terceiro,Atropelamento,0.0,16
+1562,Material Rodante,Descarrilamento,5.0,16
+1563,Interferência de Terceiro,Abalroamento,0.0,14
+1564,Interferência de Terceiro,Abalroamento,1.0,11
+1565,Via Permanente,Descarrilamento,5.5,20
+1566,Interferência de Terceiro,Atropelamento,0.3,7
+1567,Interferência de Terceiro,Atropelamento,0.0,16
+1568,Interferência de Terceiro,Abalroamento,2.4,10
+1569,Interferência de Terceiro,Abalroamento,0.0,11
+1570,Interferência de Terceiro,Abalroamento,0.0,20
+1571,Outras Causas,Descarrilamento,0.0,19
+1572,Via Permanente,Descarrilamento,24.0,5
+1573,Interferência de Terceiro,Atropelamento,1.1,10
+1574,Interferência de Terceiro,Atropelamento,0.0,13
+1575,Interferência de Terceiro,Atropelamento,2.0,19
+1576,Interferência de Terceiro,Abalroamento,4.3,9
+1577,Interferência de Terceiro,Abalroamento,0.6,16
+1578,Interferência de Terceiro,Atropelamento,2.9,6
+1579,Via Permanente,Descarrilamento,1.5,13
+1580,Interferência de Terceiro,Incêndio,6.0,20
+1581,Interferência de Terceiro,Abalroamento,3.5,22
+1582,Interferência de Terceiro,Atropelamento,4.0,18
+1583,Material Rodante,Descarrilamento,4.3,23
+1584,Interferência de Terceiro,Abalroamento,1.0,7
+1585,Interferência de Terceiro,Atropelamento,1.9,20
+1586,Interferência de Terceiro,Abalroamento,0.3,22
+1587,Interferência de Terceiro,Abalroamento,0.0,0
+1588,Via Permanente,Descarrilamento,6.1,3
+1589,Via Permanente,Descarrilamento,24.0,7
+1590,Falha Humana,Colisão,2.1,9
+1591,Interferência de Terceiro,Abalroamento,0.9,10
+1592,Interferência de Terceiro,Abalroamento,2.0,17
+1593,Interferência de Terceiro,Abalroamento,1.0,17
+1594,Interferência de Terceiro,Abalroamento,0.0,1
+1595,Interferência de Terceiro,Atropelamento,1.3,2
+1596,Interferência de Terceiro,Atropelamento,2.0,10
+1597,Interferência de Terceiro,Abalroamento,0.0,19
+1598,Interferência de Terceiro,Abalroamento,1.5,0
+1599,Interferência de Terceiro,Abalroamento,1.0,21
+1600,Interferência de Terceiro,Abalroamento,7.4,11
+1601,Interferência de Terceiro,Abalroamento,0.3,18
+1602,Interferência de Terceiro,Atropelamento,0.0,19
+1603,Casos Fortuitos ou de Força Maior,Atropelamento,3.0,6
+1604,Via Permanente,Descarrilamento,21.0,15
+1605,Interferência de Terceiro,Abalroamento,5.6,3
+1606,Interferência de Terceiro,Atropelamento,2.9,5
+1607,Interferência de Terceiro,Abalroamento,1.7,15
+1608,Interferência de Terceiro,Abalroamento,2.6,16
+1609,Interferência de Terceiro,Abalroamento,1.4,20
+1610,Interferência de Terceiro,Abalroamento,1.0,18
+1611,Interferência de Terceiro,Abalroamento,0.8,22
+1612,Via Permanente,Descarrilamento,6.9,15
+1613,Interferência de Terceiro,Atropelamento,3.0,16
+1614,Interferência de Terceiro,Abalroamento,0.5,7
+1615,Interferência de Terceiro,Abalroamento,0.0,15
+1616,Interferência de Terceiro,Abalroamento,0.8,8
+1617,Interferência de Terceiro,Abalroamento,2.0,9
+1618,Interferência de Terceiro,Atropelamento,0.0,10
+1619,Via Permanente,Descarrilamento,1.9,15
+1620,Via Permanente,Descarrilamento,0.0,9
+1621,Interferência de Terceiro,Abalroamento,1.3,17
+1622,Via Permanente,Descarrilamento,7.0,15
+1623,Falha Humana,Descarrilamento,0.0,9
+1624,Via Permanente,Descarrilamento,2.1,15
+1625,Via Permanente,Descarrilamento,6.8,9
+1626,Interferência de Terceiro,Atropelamento,0.9,3
+1627,Interferência de Terceiro,Atropelamento,1.0,14
+1628,Interferência de Terceiro,Abalroamento,1.9,10
+1629,Interferência de Terceiro,Atropelamento,4.0,14
+1630,Interferência de Terceiro,Atropelamento,0.0,17
+1631,Interferência de Terceiro,Abalroamento,4.3,10
+1632,Interferência de Terceiro,Abalroamento,1.0,7
+1633,Interferência de Terceiro,Abalroamento,2.0,15
+1634,Via Permanente,Descarrilamento,0.0,13
+1635,Interferência de Terceiro,Atropelamento,1.0,20
+1636,Interferência de Terceiro,Atropelamento,2.0,23
+1637,Interferência de Terceiro,Atropelamento,0.0,6
+1638,Via Permanente,Colisão,2.5,8
+1639,Interferência de Terceiro,Atropelamento,0.1,15
+1640,Via Permanente,Descarrilamento,0.0,22
+1641,Interferência de Terceiro,Atropelamento,0.0,2
+1642,Interferência de Terceiro,Atropelamento,1.9,7
+1643,Interferência de Terceiro,Atropelamento,0.5,16
+1644,Interferência de Terceiro,Incêndio,0.0,18
+1645,Via Permanente,Descarrilamento,14.1,20
+1646,Via Permanente,Descarrilamento,19.0,2
+1647,Interferência de Terceiro,Atropelamento,0.0,11
+1648,Interferência de Terceiro,Abalroamento,2.0,16
+1649,Interferência de Terceiro,Abalroamento,2.3,17
+1650,Interferência de Terceiro,Abalroamento,1.4,17
+1651,Interferência de Terceiro,Incêndio,0.0,20
+1652,Interferência de Terceiro,Atropelamento,0.0,21
+1653,Interferência de Terceiro,Atropelamento,0.0,13
+1654,Interferência de Terceiro,Atropelamento,0.5,2
+1655,Interferência de Terceiro,Atropelamento,2.0,19
+1656,Material Rodante,Descarrilamento,0.0,21
+1657,Via Permanente,Descarrilamento,6.1,10
+1658,Interferência de Terceiro,Abalroamento,1.0,15
+1659,Interferência de Terceiro,Atropelamento,1.1,6
+1660,Interferência de Terceiro,Abalroamento,1.0,14
+1661,Interferência de Terceiro,Atropelamento,0.0,17
+1662,Interferência de Terceiro,Abalroamento,1.5,18
+1663,Interferência de Terceiro,Atropelamento,0.0,4
+1664,Interferência de Terceiro,Abalroamento,0.3,15
+1665,Interferência de Terceiro,Abalroamento,0.9,16
+1666,Interferência de Terceiro,Atropelamento,0.5,20
+1667,Casos Fortuitos ou de Força Maior,Descarrilamento,4.9,6
+1668,Via Permanente,Descarrilamento,2.0,10
+1669,Interferência de Terceiro,Abalroamento,1.0,17
+1670,Interferência de Terceiro,Abalroamento,2.5,15
+1671,Interferência de Terceiro,Abalroamento,1.0,16
+1672,Interferência de Terceiro,Abalroamento,1.0,18
+1673,Interferência de Terceiro,Atropelamento,1.0,0
+1674,Via Permanente,Descarrilamento,10.0,13
+1675,Via Permanente,Descarrilamento,25.0,14
+1676,Interferência de Terceiro,Abalroamento,1.1,21
+1677,Interferência de Terceiro,Atropelamento,1.3,21
+1678,Interferência de Terceiro,Abalroamento,0.0,6
+1679,Interferência de Terceiro,Abalroamento,0.2,5
+1680,Interferência de Terceiro,Atropelamento,2.5,9
+1681,Interferência de Terceiro,Abalroamento,1.2,18
+1682,Casos Fortuitos ou de Força Maior,Descarrilamento,26.1,2
+1683,Via Permanente,Descarrilamento,0.0,0
+1684,Interferência de Terceiro,Atropelamento,1.5,12
+1685,Interferência de Terceiro,Abalroamento,0.5,1
+1686,Interferência de Terceiro,Atropelamento,0.5,7
+1687,Via Permanente,Descarrilamento,19.6,17
+1688,Interferência de Terceiro,Abalroamento,0.0,12
+1689,Interferência de Terceiro,Abalroamento,0.1,2
+1690,Interferência de Terceiro,Atropelamento,0.0,10
+1691,Interferência de Terceiro,Atropelamento,1.0,19
+1692,Interferência de Terceiro,Abalroamento,2.4,6
+1693,Via Permanente,Descarrilamento,6.7,14
+1694,Interferência de Terceiro,Atropelamento,1.0,21
+1695,Interferência de Terceiro,Atropelamento,0.0,12
+1696,Interferência de Terceiro,Atropelamento,1.8,19
+1697,Interferência de Terceiro,Atropelamento,0.0,21
+1698,Interferência de Terceiro,Atropelamento,1.5,1
+1699,Interferência de Terceiro,Abalroamento,0.0,6
+1700,Interferência de Terceiro,Abalroamento,2.0,16
+1701,Via Permanente,Descarrilamento,0.0,18
+1702,Interferência de Terceiro,Abalroamento,4.0,10
+1703,Interferência de Terceiro,Abalroamento,3.5,18
+1704,Interferência de Terceiro,Atropelamento,0.1,10
+1705,Interferência de Terceiro,Abalroamento,0.5,21
+1706,Interferência de Terceiro,Atropelamento,0.0,0
+1707,Interferência de Terceiro,Abalroamento,0.6,7
+1708,Via Permanente,Descarrilamento,21.3,9
+1709,Interferência de Terceiro,Abalroamento,1.2,1
+1710,Via Permanente,Descarrilamento,4.2,10
+1711,Interferência de Terceiro,Atropelamento,2.0,11
+1712,Via Permanente,Descarrilamento,13.7,13
+1713,Interferência de Terceiro,Abalroamento,3.0,5
+1714,Material Rodante,Descarrilamento,28.3,16
+1715,Interferência de Terceiro,Atropelamento,0.3,2
+1716,Interferência de Terceiro,Atropelamento,0.2,11
+1717,Interferência de Terceiro,Abalroamento,0.7,17
+1718,Interferência de Terceiro,Abalroamento,0.0,17
+1719,Interferência de Terceiro,Atropelamento,0.0,1
+1720,Via Permanente,Descarrilamento,25.0,6
+1721,Via Permanente,Descarrilamento,15.0,8
+1722,Interferência de Terceiro,Abalroamento,2.1,22
+1723,Via Permanente,Descarrilamento,5.6,13
+1724,Interferência de Terceiro,Atropelamento,0.2,13
+1725,Interferência de Terceiro,Atropelamento,2.2,1
+1726,Interferência de Terceiro,Abalroamento,2.5,12
+1727,Interferência de Terceiro,Abalroamento,1.0,15
+1728,Via Permanente,Descarrilamento,2.0,3
+1729,Interferência de Terceiro,Abalroamento,0.8,14
+1730,Interferência de Terceiro,Atropelamento,2.5,19
+1731,Interferência de Terceiro,Abalroamento,1.9,23
+1732,Interferência de Terceiro,Atropelamento,1.8,1
+1733,Interferência de Terceiro,Abalroamento,1.0,14
+1734,Interferência de Terceiro,Atropelamento,0.2,18
+1735,Interferência de Terceiro,Abalroamento,0.0,21
+1736,Via Permanente,Descarrilamento,4.5,0
+1737,Interferência de Terceiro,Atropelamento,0.0,16
+1738,Interferência de Terceiro,Abalroamento,0.5,19
+1739,Interferência de Terceiro,Abalroamento,0.0,0
+1740,Via Permanente,Descarrilamento,16.2,13
+1741,Interferência de Terceiro,Abalroamento,1.5,20
+1742,Interferência de Terceiro,Abalroamento,0.0,20
+1743,Interferência de Terceiro,Abalroamento,0.0,9
+1744,Interferência de Terceiro,Abalroamento,1.8,16
+1745,Interferência de Terceiro,Abalroamento,0.0,18
+1746,Interferência de Terceiro,Atropelamento,1.0,0
+1747,Via Permanente,Descarrilamento,3.6,12
+1748,Falha Humana,Descarrilamento,1.4,7
+1749,Outras Causas,Descarrilamento,23.0,7
+1750,Interferência de Terceiro,Abalroamento,2.3,9
+1751,Via Permanente,Descarrilamento,28.0,17
+1752,Interferência de Terceiro,Abalroamento,1.0,20
+1753,Via Permanente,Descarrilamento,7.6,23
+1754,Interferência de Terceiro,Atropelamento,1.0,15
+1755,Interferência de Terceiro,Atropelamento,4.5,22
+1756,Falha Humana,Descarrilamento,0.0,10
+1757,Interferência de Terceiro,Abalroamento,1.0,13
+1758,Interferência de Terceiro,Atropelamento,0.0,18
+1759,Interferência de Terceiro,Abalroamento,0.2,4
+1760,Interferência de Terceiro,Abalroamento,0.0,18
+1761,Material Rodante,Descarrilamento,0.0,21
+1762,Via Permanente,Descarrilamento,5.0,23
+1763,Interferência de Terceiro,Atropelamento,3.0,0
+1764,Interferência de Terceiro,Atropelamento,3.0,2
+1765,Interferência de Terceiro,Atropelamento,0.1,8
+1766,Interferência de Terceiro,Atropelamento,0.0,11
+1767,Interferência de Terceiro,Atropelamento,1.0,19
+1768,Interferência de Terceiro,Atropelamento,1.5,9
+1769,Interferência de Terceiro,Atropelamento,1.0,21
+1770,Casos Fortuitos ou de Força Maior,Colisão,7.3,12
+1771,Via Permanente,Descarrilamento,17.2,12
+1772,Interferência de Terceiro,Atropelamento,0.5,20
+1773,Casos Fortuitos ou de Força Maior,Descarrilamento,5.9,20
+1774,Interferência de Terceiro,Abalroamento,1.3,6
+1775,Via Permanente,Descarrilamento,13.0,10
+1776,Interferência de Terceiro,Abalroamento,3.2,6
+1777,Interferência de Terceiro,Abalroamento,1.0,17
+1778,Interferência de Terceiro,Atropelamento,5.8,10
+1779,Via Permanente,Descarrilamento,6.2,18
+1780,Interferência de Terceiro,Abalroamento,0.1,5
+1781,Interferência de Terceiro,Atropelamento,1.5,18
+1782,Interferência de Terceiro,Abalroamento,0.0,5
+1783,Interferência de Terceiro,Atropelamento,0.0,7
+1784,Interferência de Terceiro,Abalroamento,3.2,17
+1785,Interferência de Terceiro,Atropelamento,1.0,6
+1786,Via Permanente,Descarrilamento,5.0,13
+1787,Interferência de Terceiro,Atropelamento,0.1,16
+1788,Interferência de Terceiro,Abalroamento,0.0,17
+1789,Interferência de Terceiro,Atropelamento,1.8,18
+1790,Interferência de Terceiro,Atropelamento,38.0,7
+1791,Interferência de Terceiro,Abalroamento,0.8,20
+1792,Material Rodante,Descarrilamento,0.0,1
+1793,Interferência de Terceiro,Abalroamento,2.1,10
+1794,Via Permanente,Descarrilamento,5.3,11
+1795,Interferência de Terceiro,Atropelamento,0.0,9
+1796,Interferência de Terceiro,Atropelamento,1.5,10
+1797,Via Permanente,Descarrilamento,8.3,9
+1798,Interferência de Terceiro,Abalroamento,0.2,9
+1799,Interferência de Terceiro,Atropelamento,1.0,18
+1800,Interferência de Terceiro,Abalroamento,0.3,20
+1801,Via Permanente,Descarrilamento,10.9,2
+1802,Interferência de Terceiro,Atropelamento,2.0,10
+1803,Casos Fortuitos ou de Força Maior,Colisão,3.9,13
+1804,Via Permanente,Descarrilamento,2.0,20
+1805,Interferência de Terceiro,Atropelamento,1.0,21
+1806,Interferência de Terceiro,Abalroamento,0.0,14
+1807,Interferência de Terceiro,Atropelamento,0.3,15
+1808,Via Permanente,Descarrilamento,16.5,10
+1809,Interferência de Terceiro,Atropelamento,4.0,11
+1810,Interferência de Terceiro,Abalroamento,0.0,13
+1811,Via Permanente,Descarrilamento,12.9,14
+1812,Via Permanente,Descarrilamento,29.1,12
+1813,Interferência de Terceiro,Atropelamento,1.8,5
+1814,Interferência de Terceiro,Abalroamento,0.4,11
+1815,Interferência de Terceiro,Abalroamento,1.0,13
+1816,Interferência de Terceiro,Abalroamento,0.4,13
+1817,Via Permanente,Descarrilamento,6.0,1
+1818,Via Permanente,Descarrilamento,5.4,7
+1819,Interferência de Terceiro,Abalroamento,1.4,9
+1820,Via Permanente,Descarrilamento,27.0,18
+1821,Casos Fortuitos ou de Força Maior,Descarrilamento,0.0,22
+1822,Via Permanente,Descarrilamento,10.0,13
+1823,Interferência de Terceiro,Atropelamento,4.5,10
+1824,Interferência de Terceiro,Atropelamento,1.2,16
+1825,Interferência de Terceiro,Atropelamento,1.5,21
+1826,Interferência de Terceiro,Abalroamento,0.0,12
+1827,Interferência de Terceiro,Atropelamento,0.2,2
+1828,Via Permanente,Descarrilamento,7.0,6
+1829,Via Permanente,Descarrilamento,0.0,20
+1830,Interferência de Terceiro,Abalroamento,0.9,7
+1831,Interferência de Terceiro,Abalroamento,4.0,7
+1832,Interferência de Terceiro,Abalroamento,0.3,9
+1833,Interferência de Terceiro,Abalroamento,0.5,18
+1834,Interferência de Terceiro,Abalroamento,0.2,4
+1835,Interferência de Terceiro,Abalroamento,0.2,14
+1836,Interferência de Terceiro,Atropelamento,2.8,18
+1837,Interferência de Terceiro,Abalroamento,0.0,5
+1838,Interferência de Terceiro,Atropelamento,0.7,22
+1839,Interferência de Terceiro,Atropelamento,0.5,0
+1840,Interferência de Terceiro,Abalroamento,1.5,0
+1841,Via Permanente,Descarrilamento,26.0,2
+1842,Interferência de Terceiro,Abalroamento,3.8,17
+1843,Interferência de Terceiro,Atropelamento,1.0,2
+1844,Interferência de Terceiro,Abalroamento,2.7,7
+1845,Interferência de Terceiro,Atropelamento,0.0,0
+1846,Interferência de Terceiro,Abalroamento,0.5,14
+1847,Interferência de Terceiro,Abalroamento,1.4,17
+1848,Interferência de Terceiro,Atropelamento,2.2,18
+1849,Interferência de Terceiro,Abalroamento,0.4,7
+1850,Via Permanente,Descarrilamento,3.3,19
+1851,Via Permanente,Descarrilamento,4.1,23
+1852,Falha Humana,Descarrilamento,7.1,11
+1853,Interferência de Terceiro,Abalroamento,0.0,15
+1854,Interferência de Terceiro,Atropelamento,3.3,22
+1855,Interferência de Terceiro,Atropelamento,0.0,8
+1856,Interferência de Terceiro,Abalroamento,1.4,20
+1857,Interferência de Terceiro,Atropelamento,2.0,0
+1858,Via Permanente,Descarrilamento,10.8,10
+1859,Interferência de Terceiro,Atropelamento,2.9,11
+1860,Via Permanente,Descarrilamento,0.0,14
+1861,Interferência de Terceiro,Abalroamento,0.9,16
+1862,Interferência de Terceiro,Atropelamento,2.5,20
+1863,Interferência de Terceiro,Atropelamento,0.0,4
+1864,Interferência de Terceiro,Abalroamento,1.0,8
+1865,Via Permanente,Descarrilamento,12.0,10
+1866,Interferência de Terceiro,Abalroamento,0.0,18
+1867,Interferência de Terceiro,Abalroamento,3.0,8
+1868,Interferência de Terceiro,Abalroamento,3.2,14
+1869,Interferência de Terceiro,Atropelamento,1.5,12
+1870,Interferência de Terceiro,Abalroamento,0.0,14
+1871,Interferência de Terceiro,Atropelamento,0.0,17
+1872,Interferência de Terceiro,Abalroamento,0.1,18
+1873,Interferência de Terceiro,Abalroamento,0.0,17
+1874,Interferência de Terceiro,Atropelamento,2.1,10
+1875,Interferência de Terceiro,Atropelamento,3.8,9
+1876,Casos Fortuitos ou de Força Maior,Descarrilamento,0.0,6
+1877,Interferência de Terceiro,Atropelamento,0.0,2
+1878,Interferência de Terceiro,Abalroamento,2.0,22
+1879,Interferência de Terceiro,Abalroamento,1.1,2
+1880,Interferência de Terceiro,Abalroamento,2.3,3
+1881,Interferência de Terceiro,Atropelamento,0.0,15
+1882,Interferência de Terceiro,Abalroamento,1.1,18
+1883,Interferência de Terceiro,Atropelamento,0.0,0
+1884,Interferência de Terceiro,Atropelamento,1.0,5
+1885,Interferência de Terceiro,Abalroamento,2.0,9
+1886,Interferência de Terceiro,Abalroamento,0.1,17
+1887,Interferência de Terceiro,Atropelamento,0.0,18
+1888,Via Permanente,Descarrilamento,37.4,10
+1889,Interferência de Terceiro,Atropelamento,3.3,19
+1890,Material Rodante,Descarrilamento,4.7,15
+1891,Interferência de Terceiro,Abalroamento,6.2,6
+1892,Via Permanente,Descarrilamento,0.0,7
+1893,Via Permanente,Descarrilamento,19.1,5
+1894,Interferência de Terceiro,Abalroamento,0.0,7
+1895,Interferência de Terceiro,Abalroamento,2.4,23
+1896,Interferência de Terceiro,Abalroamento,1.9,12
+1897,Interferência de Terceiro,Abalroamento,0.6,16
+1898,Interferência de Terceiro,Abalroamento,1.7,0
+1899,Interferência de Terceiro,Abalroamento,0.1,15
+1900,Interferência de Terceiro,Abalroamento,0.0,18
+1901,Falha Humana,Descarrilamento,10.0,4
+1902,Via Permanente,Descarrilamento,20.0,1
+1903,Interferência de Terceiro,Atropelamento,2.4,7
+1904,Interferência de Terceiro,Abalroamento,0.3,2
+1905,Interferência de Terceiro,Abalroamento,1.0,6
+1906,Interferência de Terceiro,Atropelamento,1.5,11
+1907,Interferência de Terceiro,Atropelamento,0.0,12
+1908,Interferência de Terceiro,Abalroamento,2.5,6
+1909,Interferência de Terceiro,Abalroamento,1.0,11
+1910,Via Permanente,Descarrilamento,5.0,1
+1911,Interferência de Terceiro,Abalroamento,0.0,5
+1912,Interferência de Terceiro,Atropelamento,0.3,11
+1913,Interferência de Terceiro,Abalroamento,0.1,15
+1914,Interferência de Terceiro,Abalroamento,0.3,6
+1915,Interferência de Terceiro,Atropelamento,1.9,18
+1916,Via Permanente,Descarrilamento,4.3,18
+1917,Interferência de Terceiro,Abalroamento,1.3,21
+1918,Interferência de Terceiro,Abalroamento,2.3,1
+1919,Interferência de Terceiro,Abalroamento,0.0,1
+1920,Interferência de Terceiro,Abalroamento,2.5,14
+1921,Material Rodante,Descarrilamento,2.0,0
+1922,Interferência de Terceiro,Abalroamento,3.3,3
+1923,Interferência de Terceiro,Abalroamento,0.7,13
+1924,Interferência de Terceiro,Atropelamento,2.0,14
+1925,Interferência de Terceiro,Atropelamento,0.0,23
+1926,Via Permanente,Descarrilamento,0.0,2
+1927,Interferência de Terceiro,Atropelamento,0.0,3
+1928,Interferência de Terceiro,Atropelamento,0.0,3
+1929,Falha Humana,Descarrilamento,1.0,10
+1930,Interferência de Terceiro,Atropelamento,0.0,15
+1931,Interferência de Terceiro,Atropelamento,2.0,7
+1932,Interferência de Terceiro,Atropelamento,0.8,8
+1933,Interferência de Terceiro,Abalroamento,0.0,13
+1934,Via Permanente,Descarrilamento,22.2,14
+1935,Material Rodante,Descarrilamento,15.0,15
+1936,Material Rodante,Descarrilamento,5.0,2
+1937,Interferência de Terceiro,Abalroamento,3.8,14
+1938,Interferência de Terceiro,Abalroamento,0.4,19
+1939,Interferência de Terceiro,Atropelamento,0.0,21
+1940,Interferência de Terceiro,Abalroamento,1.5,0
+1941,Interferência de Terceiro,Atropelamento,1.0,5
+1942,Interferência de Terceiro,Abalroamento,1.1,9
+1943,Interferência de Terceiro,Atropelamento,4.5,10
+1944,Interferência de Terceiro,Abalroamento,2.8,6
+1945,Interferência de Terceiro,Atropelamento,0.0,19
+1946,Material Rodante,Descarrilamento,8.0,2
+1947,Interferência de Terceiro,Abalroamento,1.5,7
+1948,Interferência de Terceiro,Abalroamento,1.0,10
+1949,Interferência de Terceiro,Abalroamento,2.4,10
+1950,Interferência de Terceiro,Abalroamento,2.0,23
+1951,Interferência de Terceiro,Abalroamento,2.0,15
+1952,Via Permanente,Descarrilamento,40.3,20
+1953,Via Permanente,Descarrilamento,0.0,1
+1954,Falha Humana,Descarrilamento,14.2,3
+1955,Interferência de Terceiro,Abalroamento,0.0,16
+1956,Interferência de Terceiro,Atropelamento,1.1,18
+1957,Interferência de Terceiro,Abalroamento,0.7,19
+1958,Material Rodante,Descarrilamento,17.3,15
+1959,Interferência de Terceiro,Abalroamento,0.7,21
+1960,Interferência de Terceiro,Abalroamento,1.2,9
+1961,Material Rodante,Descarrilamento,6.4,12
+1962,Interferência de Terceiro,Abalroamento,0.0,12
+1963,Interferência de Terceiro,Atropelamento,5.0,8
+1964,Interferência de Terceiro,Abalroamento,0.2,16
+1965,Interferência de Terceiro,Atropelamento,2.2,4
+1966,Interferência de Terceiro,Atropelamento,3.0,11
+1967,Interferência de Terceiro,Abalroamento,0.1,12
+1968,Interferência de Terceiro,Atropelamento,0.0,23
+1969,Interferência de Terceiro,Atropelamento,3.0,14
+1970,Interferência de Terceiro,Abalroamento,1.2,16
+1971,Interferência de Terceiro,Abalroamento,0.0,17
+1972,Interferência de Terceiro,Descarrilamento,5.4,17
+1973,Interferência de Terceiro,Abalroamento,2.0,0
+1974,Via Permanente,Descarrilamento,6.3,14
+1975,Interferência de Terceiro,Atropelamento,0.0,22
+1976,Interferência de Terceiro,Atropelamento,1.9,11
+1977,Interferência de Terceiro,Abalroamento,2.0,9
+1978,Interferência de Terceiro,Atropelamento,2.5,9
+1979,Interferência de Terceiro,Abalroamento,0.0,22
+1980,Interferência de Terceiro,Abalroamento,1.3,8
+1981,Interferência de Terceiro,Atropelamento,0.3,17
+1982,Interferência de Terceiro,Atropelamento,0.0,22
+1983,Interferência de Terceiro,Abalroamento,0.8,5
+1984,Interferência de Terceiro,Abalroamento,0.0,8
+1985,Via Permanente,Descarrilamento,0.0,10
+1986,Interferência de Terceiro,Atropelamento,3.5,23
+1987,Interferência de Terceiro,Abalroamento,1.4,8
+1988,Interferência de Terceiro,Atropelamento,0.0,19
+1989,Interferência de Terceiro,Abalroamento,0.5,12
+1990,Casos Fortuitos ou de Força Maior,Incêndio,0.0,12
+1991,Interferência de Terceiro,Atropelamento,0.3,14
+1992,Interferência de Terceiro,Abalroamento,0.0,20
+1993,Interferência de Terceiro,Atropelamento,0.0,4
+1994,Via Permanente,Descarrilamento,0.0,8
+1995,Interferência de Terceiro,Abalroamento,0.2,18
+1996,Interferência de Terceiro,Atropelamento,0.0,4
+1997,Interferência de Terceiro,Atropelamento,2.0,11
+1998,Interferência de Terceiro,Abalroamento,1.9,0
+1999,Interferência de Terceiro,Abalroamento,0.0,17
+2000,Outras Causas,Descarrilamento,0.0,21
+2001,Interferência de Terceiro,Abalroamento,0.2,6
+2002,Interferência de Terceiro,Abalroamento,0.0,12
+2003,Via Permanente,Descarrilamento,3.3,19
+2004,Interferência de Terceiro,Abalroamento,0.3,5
+2005,Interferência de Terceiro,Abalroamento,0.0,19
+2006,Interferência de Terceiro,Abalroamento,1.5,11
+2007,Interferência de Terceiro,Atropelamento,0.8,12
+2008,Interferência de Terceiro,Abalroamento,0.1,13
+2009,Interferência de Terceiro,Abalroamento,0.0,5
+2010,Interferência de Terceiro,Atropelamento,2.0,14
+2011,Interferência de Terceiro,Abalroamento,0.8,12
+2012,Via Permanente,Descarrilamento,4.7,21
+2013,Interferência de Terceiro,Atropelamento,0.2,10
+2014,Material Rodante,Descarrilamento,0.0,8
+2015,Interferência de Terceiro,Atropelamento,1.0,12
+2016,Interferência de Terceiro,Atropelamento,0.0,18
+2017,Material Rodante,Descarrilamento,90.5,2
+2018,Interferência de Terceiro,Abalroamento,2.7,15
+2019,Interferência de Terceiro,Abalroamento,0.0,16
+2020,Falha Humana,Descarrilamento,13.5,8
+2021,Interferência de Terceiro,Abalroamento,1.6,10
+2022,Via Permanente,Descarrilamento,18.9,13
+2023,Interferência de Terceiro,Atropelamento,0.0,18
+2024,Interferência de Terceiro,Abalroamento,1.0,11
+2025,Interferência de Terceiro,Abalroamento,0.0,12
+2026,Interferência de Terceiro,Atropelamento,1.0,23
+2027,Via Permanente,Descarrilamento,24.9,15
+2028,Interferência de Terceiro,Abalroamento,3.1,9
+2029,Interferência de Terceiro,Abalroamento,0.0,12
+2030,Interferência de Terceiro,Descarrilamento,7.0,23
+2031,Interferência de Terceiro,Abalroamento,2.1,9
+2032,Via Permanente,Descarrilamento,1.0,13
+2033,Interferência de Terceiro,Atropelamento,1.5,8
+2034,Interferência de Terceiro,Atropelamento,0.0,11
+2035,Via Permanente,Descarrilamento,3.8,2
+2036,Interferência de Terceiro,Abalroamento,0.0,13
+2037,Interferência de Terceiro,Atropelamento,4.0,12
+2038,Interferência de Terceiro,Abalroamento,0.0,13
+2039,Interferência de Terceiro,Atropelamento,1.3,1
+2040,Interferência de Terceiro,Atropelamento,0.0,16
+2041,Interferência de Terceiro,Atropelamento,0.2,20
+2042,Interferência de Terceiro,Abalroamento,2.0,11
+2043,Interferência de Terceiro,Abalroamento,0.0,13
+2044,Interferência de Terceiro,Abalroamento,0.0,2
+2045,Interferência de Terceiro,Abalroamento,0.3,16
+2046,Interferência de Terceiro,Abalroamento,0.0,19
+2047,Interferência de Terceiro,Abalroamento,0.4,15
+2048,Interferência de Terceiro,Abalroamento,0.5,18
+2049,Interferência de Terceiro,Atropelamento,0.0,13
+2050,Via Permanente,Descarrilamento,15.3,0
+2051,Interferência de Terceiro,Atropelamento,3.5,12
+2052,Via Permanente,Descarrilamento,4.7,23
+2053,Material Rodante,Descarrilamento,28.8,5
+2054,Interferência de Terceiro,Abalroamento,0.5,7
+2055,Via Permanente,Descarrilamento,0.0,8
+2056,Interferência de Terceiro,Atropelamento,0.0,8
+2057,Interferência de Terceiro,Atropelamento,0.7,11
+2058,Interferência de Terceiro,Abalroamento,0.0,23
+2059,Interferência de Terceiro,Abalroamento,0.4,13
+2060,Falha Humana,Colisão,22.0,17
+2061,Via Permanente,Descarrilamento,3.1,6
+2062,Interferência de Terceiro,Atropelamento,0.0,8
+2063,Via Permanente,Descarrilamento,0.0,11
+2064,Interferência de Terceiro,Abalroamento,3.0,11
+2065,Interferência de Terceiro,Atropelamento,1.0,13
+2066,Interferência de Terceiro,Abalroamento,1.0,17
+2067,Material Rodante,Descarrilamento,7.3,17
+2068,Interferência de Terceiro,Atropelamento,3.5,9
+2069,Interferência de Terceiro,Abalroamento,0.5,12
+2070,Interferência de Terceiro,Atropelamento,0.3,14
+2071,Via Permanente,Descarrilamento,0.0,6
+2072,Interferência de Terceiro,Atropelamento,0.0,12
+2073,Interferência de Terceiro,Atropelamento,0.0,14
+2074,Interferência de Terceiro,Abalroamento,0.9,17
+2075,Interferência de Terceiro,Abalroamento,0.4,5
+2076,Casos Fortuitos ou de Força Maior,Descarrilamento,67.0,8
+2077,Interferência de Terceiro,Atropelamento,2.0,9
+2078,Interferência de Terceiro,Atropelamento,0.2,10
+2079,Interferência de Terceiro,Atropelamento,0.9,11
+2080,Interferência de Terceiro,Atropelamento,2.0,20
+2081,Interferência de Terceiro,Atropelamento,2.3,22
+2082,Interferência de Terceiro,Atropelamento,4.0,3
+2083,Interferência de Terceiro,Abalroamento,2.3,14
+2084,Interferência de Terceiro,Atropelamento,0.0,14
+2085,Interferência de Terceiro,Abalroamento,2.0,8
+2086,Interferência de Terceiro,Atropelamento,2.9,13
+2087,Interferência de Terceiro,Atropelamento,0.0,14
+2088,Interferência de Terceiro,Atropelamento,0.0,9
+2089,Interferência de Terceiro,Abalroamento,2.0,12
+2090,Interferência de Terceiro,Atropelamento,0.0,16
+2091,Interferência de Terceiro,Atropelamento,0.0,11
+2092,Material Rodante,Descarrilamento,5.0,14
+2093,Interferência de Terceiro,Atropelamento,1.0,17
+2094,Via Permanente,Descarrilamento,24.0,6
+2095,Interferência de Terceiro,Atropelamento,3.0,8
+2096,Via Permanente,Descarrilamento,3.1,8
+2097,Interferência de Terceiro,Abalroamento,2.2,0
+2098,Interferência de Terceiro,Atropelamento,0.3,4
+2099,Interferência de Terceiro,Atropelamento,1.3,13
+2100,Interferência de Terceiro,Abalroamento,2.0,16
+2101,Material Rodante,Descarrilamento,4.0,19
+2102,Interferência de Terceiro,Abalroamento,0.8,4
+2103,Via Permanente,Descarrilamento,4.5,7
+2104,Interferência de Terceiro,Abalroamento,0.0,18
+2105,Interferência de Terceiro,Abalroamento,0.0,11
+2106,Interferência de Terceiro,Atropelamento,3.0,6
+2107,Via Permanente,Descarrilamento,5.6,17
+2108,Interferência de Terceiro,Atropelamento,2.0,17
+2109,Material Rodante,Descarrilamento,0.0,17
+2110,Interferência de Terceiro,Abalroamento,0.4,8
+2111,Via Permanente,Descarrilamento,4.5,14
+2112,Interferência de Terceiro,Abalroamento,0.0,16
+2113,Interferência de Terceiro,Abalroamento,2.1,13
+2114,Interferência de Terceiro,Abalroamento,2.3,8
+2115,Interferência de Terceiro,Abalroamento,0.1,22
+2116,Via Permanente,Descarrilamento,7.3,14
+2117,Interferência de Terceiro,Abalroamento,6.0,6
+2118,Interferência de Terceiro,Atropelamento,2.1,0
+2119,Interferência de Terceiro,Abalroamento,0.0,6
+2120,Interferência de Terceiro,Atropelamento,1.0,14
+2121,Interferência de Terceiro,Abalroamento,0.2,6
+2122,Interferência de Terceiro,Abalroamento,0.0,9
+2123,Interferência de Terceiro,Atropelamento,0.7,16
+2124,Interferência de Terceiro,Abalroamento,0.2,19
+2125,Interferência de Terceiro,Atropelamento,1.1,1
+2126,Interferência de Terceiro,Atropelamento,2.5,22
+2127,Interferência de Terceiro,Abalroamento,0.1,13
+2128,Interferência de Terceiro,Atropelamento,0.9,14
+2129,Interferência de Terceiro,Atropelamento,3.0,23
+2130,Interferência de Terceiro,Abalroamento,0.0,12
+2131,Interferência de Terceiro,Atropelamento,0.0,4
+2132,Interferência de Terceiro,Abalroamento,5.0,17
+2133,Interferência de Terceiro,Atropelamento,0.0,22
+2134,Interferência de Terceiro,Abalroamento,1.3,3
+2135,Via Permanente,Descarrilamento,10.0,13
+2136,Interferência de Terceiro,Abalroamento,1.0,2
+2137,Interferência de Terceiro,Atropelamento,1.2,3
+2138,Interferência de Terceiro,Abalroamento,0.0,4
+2139,Interferência de Terceiro,Atropelamento,0.3,7
+2140,Interferência de Terceiro,Abalroamento,0.1,13
+2141,Interferência de Terceiro,Abalroamento,0.0,18
+2142,Interferência de Terceiro,Atropelamento,0.0,13
+2143,Interferência de Terceiro,Atropelamento,1.0,17
+2144,Interferência de Terceiro,Abalroamento,1.4,18
+2145,Interferência de Terceiro,Abalroamento,0.0,23
+2146,Interferência de Terceiro,Atropelamento,0.0,7
+2147,Interferência de Terceiro,Atropelamento,1.4,20
+2148,Interferência de Terceiro,Atropelamento,2.0,5
+2149,Interferência de Terceiro,Abalroamento,2.0,16
+2150,Interferência de Terceiro,Abalroamento,0.0,9
+2151,Via Permanente,Descarrilamento,16.0,12
+2152,Interferência de Terceiro,Abalroamento,0.6,2
+2153,Material Rodante,Descarrilamento,15.3,3
+2154,Interferência de Terceiro,Abalroamento,1.7,13
+2155,Interferência de Terceiro,Abalroamento,0.8,15
+2156,Interferência de Terceiro,Abalroamento,0.5,0
+2157,Falha Humana,Descarrilamento,26.0,2
+2158,Interferência de Terceiro,Abalroamento,0.0,19
+2159,Interferência de Terceiro,Atropelamento,0.0,1
+2160,Interferência de Terceiro,Abalroamento,1.3,6
+2161,Via Permanente,Descarrilamento,23.6,16
+2162,Interferência de Terceiro,Atropelamento,1.3,7
+2163,Interferência de Terceiro,Atropelamento,2.5,11
+2164,Interferência de Terceiro,Atropelamento,4.3,22
+2165,Interferência de Terceiro,Atropelamento,0.0,15
+2166,Via Permanente,Descarrilamento,3.5,23
+2167,Interferência de Terceiro,Atropelamento,1.5,1
+2168,Interferência de Terceiro,Abalroamento,1.6,1
+2169,Interferência de Terceiro,Atropelamento,0.1,5
+2170,Via Permanente,Descarrilamento,0.0,15
+2171,Via Permanente,Descarrilamento,18.2,15
+2172,Interferência de Terceiro,Atropelamento,0.5,8
+2173,Interferência de Terceiro,Atropelamento,1.5,11
+2174,Interferência de Terceiro,Abalroamento,0.2,14
+2175,Interferência de Terceiro,Abalroamento,0.5,16
+2176,Interferência de Terceiro,Atropelamento,1.2,5
+2177,Via Permanente,Descarrilamento,13.8,14
+2178,Interferência de Terceiro,Atropelamento,2.0,20
+2179,Interferência de Terceiro,Abalroamento,1.1,20
+2180,Interferência de Terceiro,Atropelamento,1.0,3
+2181,Interferência de Terceiro,Atropelamento,1.5,7
+2182,Interferência de Terceiro,Abalroamento,0.1,10
+2183,Interferência de Terceiro,Atropelamento,0.1,12
+2184,Interferência de Terceiro,Atropelamento,1.1,14
+2185,Via Permanente,Descarrilamento,22.4,14
+2186,Interferência de Terceiro,Abalroamento,1.3,14
+2187,Interferência de Terceiro,Abalroamento,0.3,9
+2188,Falha Humana,Descarrilamento,9.9,14
+2189,Interferência de Terceiro,Abalroamento,2.0,18
+2190,Interferência de Terceiro,Abalroamento,0.9,7
+2191,Interferência de Terceiro,Descarrilamento,12.0,7
+2192,Falha Humana,Descarrilamento,3.3,8
+2193,Via Permanente,Descarrilamento,4.5,10
+2194,Interferência de Terceiro,Abalroamento,0.0,11
+2195,Interferência de Terceiro,Abalroamento,4.0,12
+2196,Interferência de Terceiro,Abalroamento,0.1,16
+2197,Interferência de Terceiro,Abalroamento,0.5,16
+2198,Interferência de Terceiro,Abalroamento,0.0,22
+2199,Interferência de Terceiro,Abalroamento,0.1,3
+2200,Interferência de Terceiro,Atropelamento,0.0,8
+2201,Interferência de Terceiro,Atropelamento,0.0,8
+2202,Interferência de Terceiro,Abalroamento,3.4,13
+2203,Interferência de Terceiro,Atropelamento,0.1,16
+2204,Interferência de Terceiro,Atropelamento,0.0,19
+2205,Interferência de Terceiro,Atropelamento,2.3,4
+2206,Interferência de Terceiro,Abalroamento,1.3,19
+2207,Interferência de Terceiro,Atropelamento,2.0,2
+2208,Interferência de Terceiro,Atropelamento,2.3,9
+2209,Falha Humana,Descarrilamento,5.9,12
+2210,Interferência de Terceiro,Atropelamento,3.0,19
+2211,Interferência de Terceiro,Atropelamento,1.5,20
+2212,Interferência de Terceiro,Atropelamento,2.0,2
+2213,Interferência de Terceiro,Atropelamento,0.0,21
+2214,Interferência de Terceiro,Atropelamento,1.0,17
+2215,Interferência de Terceiro,Atropelamento,2.3,23
+2216,Via Permanente,Descarrilamento,6.9,12
+2217,Via Permanente,Descarrilamento,0.0,13
+2218,Interferência de Terceiro,Abalroamento,1.0,4
+2219,Outras Causas,Descarrilamento,3.0,13
+2220,Interferência de Terceiro,Abalroamento,0.3,15
+2221,Interferência de Terceiro,Atropelamento,3.3,4
+2222,Casos Fortuitos ou de Força Maior,Descarrilamento,10.0,7
+2223,Interferência de Terceiro,Abalroamento,0.8,14
+2224,Material Rodante,Incêndio,4.3,15
+2225,Interferência de Terceiro,Abalroamento,3.5,6
+2226,Interferência de Terceiro,Abalroamento,3.6,16
+2227,Via Permanente,Descarrilamento,23.0,7
+2228,Interferência de Terceiro,Atropelamento,3.3,11
+2229,Interferência de Terceiro,Abalroamento,1.0,22
+2230,Material Rodante,Descarrilamento,7.4,3
+2231,Interferência de Terceiro,Abalroamento,5.0,9
+2232,Interferência de Terceiro,Abalroamento,0.0,16
+2233,Interferência de Terceiro,Atropelamento,1.2,16
+2234,Interferência de Terceiro,Abalroamento,0.0,11
+2235,Interferência de Terceiro,Atropelamento,0.4,13
+2236,Interferência de Terceiro,Atropelamento,1.0,22
+2237,Interferência de Terceiro,Atropelamento,1.4,3
+2238,Interferência de Terceiro,Abalroamento,0.0,10
+2239,Interferência de Terceiro,Abalroamento,0.2,11
+2240,Via Permanente,Descarrilamento,10.0,13
+2241,Interferência de Terceiro,Abalroamento,0.0,14
+2242,Interferência de Terceiro,Abalroamento,1.7,19
+2243,Interferência de Terceiro,Abalroamento,1.3,20
+2244,Material Rodante,Descarrilamento,7.4,1
+2245,Interferência de Terceiro,Atropelamento,0.0,14
+2246,Interferência de Terceiro,Atropelamento,0.0,11
+2247,Interferência de Terceiro,Abalroamento,0.9,9
+2248,Via Permanente,Descarrilamento,18.5,12
+2249,Interferência de Terceiro,Atropelamento,0.0,19
+2250,Interferência de Terceiro,Abalroamento,1.6,18
+2251,Via Permanente,Descarrilamento,12.3,10
+2252,Interferência de Terceiro,Abalroamento,0.7,11
+2253,Interferência de Terceiro,Abalroamento,0.8,18
+2254,Interferência de Terceiro,Atropelamento,4.0,20
+2255,Material Rodante,Descarrilamento,11.3,2
+2256,Interferência de Terceiro,Abalroamento,0.0,14
+2257,Material Rodante,Descarrilamento,20.8,20
+2258,Interferência de Terceiro,Abalroamento,0.0,4
+2259,Interferência de Terceiro,Atropelamento,1.0,16
+2260,Interferência de Terceiro,Atropelamento,0.0,20
+2261,Interferência de Terceiro,Abalroamento,0.0,1
+2262,Material Rodante,Descarrilamento,5.9,2
+2263,Interferência de Terceiro,Abalroamento,2.0,20
+2264,Interferência de Terceiro,Atropelamento,2.0,20
+2265,Interferência de Terceiro,Atropelamento,0.0,22
+2266,Via Permanente,Descarrilamento,9.0,1
+2267,Interferência de Terceiro,Atropelamento,7.9,9
+2268,Interferência de Terceiro,Abalroamento,2.4,13
+2269,Interferência de Terceiro,Atropelamento,0.0,15
+2270,Interferência de Terceiro,Atropelamento,2.0,20
+2271,Interferência de Terceiro,Atropelamento,1.1,0
+2272,Interferência de Terceiro,Abalroamento,0.0,8
+2273,Interferência de Terceiro,Atropelamento,2.0,8
+2274,Interferência de Terceiro,Abalroamento,0.3,23
+2275,Interferência de Terceiro,Abalroamento,0.0,18
+2276,Via Permanente,Descarrilamento,27.1,12
+2277,Material Rodante,Descarrilamento,3.0,14
+2278,Interferência de Terceiro,Atropelamento,1.0,18
+2279,Material Rodante,Descarrilamento,0.0,1
+2280,Interferência de Terceiro,Atropelamento,4.0,11
+2281,Interferência de Terceiro,Abalroamento,1.4,19
+2282,Interferência de Terceiro,Atropelamento,2.3,0
+2283,Interferência de Terceiro,Atropelamento,1.3,11
+2284,Via Permanente,Descarrilamento,18.9,15
+2285,Interferência de Terceiro,Atropelamento,4.0,21
+2286,Interferência de Terceiro,Abalroamento,0.0,9
+2287,Interferência de Terceiro,Abalroamento,2.3,5
+2288,Interferência de Terceiro,Abalroamento,0.0,14
+2289,Interferência de Terceiro,Atropelamento,0.0,8
+2290,Interferência de Terceiro,Abalroamento,2.4,8
+2291,Via Permanente,Descarrilamento,4.6,16
+2292,Interferência de Terceiro,Atropelamento,3.7,2
+2293,Interferência de Terceiro,Abalroamento,3.0,11
+2294,Interferência de Terceiro,Abalroamento,0.0,11
+2295,Interferência de Terceiro,Abalroamento,0.5,13
+2296,Via Permanente,Descarrilamento,10.5,5
+2297,Via Permanente,Descarrilamento,18.3,10
+2298,Interferência de Terceiro,Atropelamento,0.7,11
+2299,Interferência de Terceiro,Atropelamento,2.3,12
+2300,Material Rodante,Descarrilamento,0.0,3
+2301,Via Permanente,Descarrilamento,0.0,21
+2302,Interferência de Terceiro,Abalroamento,0.0,18
+2303,Via Permanente,Descarrilamento,26.0,20
+2304,Via Permanente,Descarrilamento,23.0,0
+2305,Interferência de Terceiro,Abalroamento,0.3,23
+2306,Via Permanente,Descarrilamento,8.5,7
+2307,Outras Causas,Descarrilamento,6.6,8
+2308,Interferência de Terceiro,Abalroamento,0.5,9
+2309,Interferência de Terceiro,Abalroamento,0.0,21
+2310,Interferência de Terceiro,Atropelamento,0.0,22
+2311,Via Permanente,Descarrilamento,41.9,2
+2312,Interferência de Terceiro,Abalroamento,2.7,10
+2313,Via Permanente,Descarrilamento,15.2,5
+2314,Interferência de Terceiro,Abalroamento,1.5,12
+2315,Material Rodante,Descarrilamento,12.8,14
+2316,Interferência de Terceiro,Atropelamento,0.0,6
+2317,Interferência de Terceiro,Atropelamento,0.0,3
+2318,Interferência de Terceiro,Abalroamento,0.7,6
+2319,Interferência de Terceiro,Abalroamento,0.0,6
+2320,Via Permanente,Descarrilamento,0.0,14
+2321,Interferência de Terceiro,Abalroamento,2.0,11
+2322,Interferência de Terceiro,Atropelamento,2.0,18
+2323,Interferência de Terceiro,Atropelamento,0.0,20
+2324,Interferência de Terceiro,Atropelamento,0.2,10
+2325,Interferência de Terceiro,Atropelamento,0.6,10
+2326,Interferência de Terceiro,Atropelamento,0.2,20
+2327,Interferência de Terceiro,Atropelamento,1.5,2
+2328,Interferência de Terceiro,Atropelamento,0.0,15
+2329,Interferência de Terceiro,Atropelamento,2.7,15
+2330,Interferência de Terceiro,Atropelamento,0.4,18
+2331,Interferência de Terceiro,Abalroamento,3.9,14
+2332,Interferência de Terceiro,Abalroamento,0.0,22
+2333,Interferência de Terceiro,Atropelamento,0.0,7
+2334,Interferência de Terceiro,Abalroamento,1.2,16
+2335,Interferência de Terceiro,Atropelamento,3.3,20
+2336,Interferência de Terceiro,Atropelamento,0.0,21
+2337,Interferência de Terceiro,Abalroamento,0.4,15
+2338,Interferência de Terceiro,Atropelamento,2.0,20
+2339,Interferência de Terceiro,Abalroamento,0.3,16
+2340,Interferência de Terceiro,Atropelamento,0.5,3
+2341,Interferência de Terceiro,Atropelamento,2.0,15
+2342,Interferência de Terceiro,Atropelamento,3.0,5
+2343,Material Rodante,Descarrilamento,3.5,14
+2344,Interferência de Terceiro,Abalroamento,17.8,19
+2345,Interferência de Terceiro,Abalroamento,0.0,21
+2346,Via Permanente,Descarrilamento,4.0,1
+2347,Interferência de Terceiro,Abalroamento,3.8,7
+2348,Interferência de Terceiro,Abalroamento,0.0,14
+2349,Interferência de Terceiro,Abalroamento,0.8,6
+2350,Interferência de Terceiro,Atropelamento,1.1,21
+2351,Falha Humana,Atropelamento,2.0,16
+2352,Outras Causas,Descarrilamento,9.4,5
+2353,Interferência de Terceiro,Atropelamento,3.0,10
+2354,Interferência de Terceiro,Atropelamento,2.0,10
+2355,Interferência de Terceiro,Atropelamento,0.4,13
+2356,Material Rodante,Descarrilamento,23.0,14
+2357,Interferência de Terceiro,Abalroamento,2.0,19
+2358,Via Permanente,Descarrilamento,3.5,21
+2359,Gestão,Colisão,16.3,0
+2360,Interferência de Terceiro,Abalroamento,0.5,16
+2361,Material Rodante,Incêndio,0.0,11
+2362,Interferência de Terceiro,Abalroamento,0.0,12
+2363,Interferência de Terceiro,Abalroamento,3.2,23
+2364,Interferência de Terceiro,Atropelamento,0.5,21
+2365,Interferência de Terceiro,Atropelamento,1.8,1
+2366,Outras Causas,Incêndio,20.0,16
+2367,Interferência de Terceiro,Atropelamento,2.0,12
+2368,Interferência de Terceiro,Atropelamento,0.0,4
+2369,Interferência de Terceiro,Atropelamento,0.0,9
+2370,Interferência de Terceiro,Atropelamento,1.0,13
+2371,Interferência de Terceiro,Abalroamento,0.6,14
+2372,Interferência de Terceiro,Atropelamento,3.0,19
+2373,Interferência de Terceiro,Abalroamento,3.0,19
+2374,Interferência de Terceiro,Atropelamento,0.0,23
+2375,Interferência de Terceiro,Abalroamento,0.9,3
+2376,Interferência de Terceiro,Descarrilamento,11.5,5
+2377,Via Permanente,Descarrilamento,10.0,20
+2378,Via Permanente,Descarrilamento,0.0,0
+2379,Via Permanente,Descarrilamento,12.0,1
+2380,Falha Humana,Descarrilamento,22.0,16
+2381,Interferência de Terceiro,Abalroamento,30.5,11
+2382,Interferência de Terceiro,Abalroamento,0.0,15
+2383,Via Permanente,Descarrilamento,34.2,1
+2384,Via Permanente,Descarrilamento,8.9,16
+2385,Interferência de Terceiro,Atropelamento,2.0,13
+2386,Via Permanente,Colisão,26.0,21
+2387,Falha Humana,Descarrilamento,0.0,16
+2388,Interferência de Terceiro,Atropelamento,0.0,20
+2389,Interferência de Terceiro,Abalroamento,0.9,12
+2390,Interferência de Terceiro,Abalroamento,0.1,5
+2391,Interferência de Terceiro,Abalroamento,1.2,8
+2392,Gestão,Abalroamento,0.0,8
+2393,Interferência de Terceiro,Abalroamento,0.1,9
+2394,Interferência de Terceiro,Abalroamento,2.2,15
+2395,Interferência de Terceiro,Atropelamento,8.4,8
+2396,Interferência de Terceiro,Atropelamento,0.0,12
+2397,Via Permanente,Descarrilamento,5.0,20
+2398,Interferência de Terceiro,Abalroamento,1.5,22
+2399,Interferência de Terceiro,Atropelamento,2.7,23
+2400,Material Rodante,Descarrilamento,5.2,11
+2401,Interferência de Terceiro,Abalroamento,2.0,21
+2402,Interferência de Terceiro,Abalroamento,2.5,16
+2403,Interferência de Terceiro,Atropelamento,2.0,17
+2404,Interferência de Terceiro,Abalroamento,0.0,21
+2405,Interferência de Terceiro,Abalroamento,0.7,9
+2406,Interferência de Terceiro,Abalroamento,0.0,9
+2407,Interferência de Terceiro,Atropelamento,0.7,10
+2408,Interferência de Terceiro,Atropelamento,0.5,12
+2409,Interferência de Terceiro,Atropelamento,0.0,18
+2410,Interferência de Terceiro,Abalroamento,0.7,18
+2411,Interferência de Terceiro,Abalroamento,0.8,22
+2412,Interferência de Terceiro,Atropelamento,3.0,14
+2413,Interferência de Terceiro,Abalroamento,2.2,14
+2414,Interferência de Terceiro,Abalroamento,0.8,21
+2415,Interferência de Terceiro,Abalroamento,0.8,17
+2416,Interferência de Terceiro,Abalroamento,3.0,20
+2417,Interferência de Terceiro,Abalroamento,0.6,8
+2418,Interferência de Terceiro,Abalroamento,0.5,9
+2419,Interferência de Terceiro,Abalroamento,0.0,3
+2420,Interferência de Terceiro,Atropelamento,2.0,15
+2421,Via Permanente,Descarrilamento,4.6,23
+2422,Interferência de Terceiro,Abalroamento,1.0,17
+2423,Material Rodante,Descarrilamento,12.9,1
+2424,Material Rodante,Descarrilamento,13.8,1
+2425,Interferência de Terceiro,Abalroamento,3.0,14
+2426,Interferência de Terceiro,Atropelamento,1.5,19
+2427,Interferência de Terceiro,Atropelamento,0.1,3
+2428,Interferência de Terceiro,Atropelamento,2.0,9
+2429,Interferência de Terceiro,Abalroamento,0.1,12
+2430,Interferência de Terceiro,Atropelamento,1.5,1
+2431,Interferência de Terceiro,Abalroamento,0.1,5
+2432,Via Permanente,Descarrilamento,24.0,10
+2433,Interferência de Terceiro,Abalroamento,2.1,14
+2434,Interferência de Terceiro,Abalroamento,0.5,15
+2435,Interferência de Terceiro,Abalroamento,1.7,9
+2436,Interferência de Terceiro,Atropelamento,1.0,20
+2437,Interferência de Terceiro,Abalroamento,0.0,21
+2438,Interferência de Terceiro,Abalroamento,1.1,8
+2439,Outras Causas,Descarrilamento,1.5,14
+2440,Interferência de Terceiro,Atropelamento,0.2,6
+2441,Via Permanente,Descarrilamento,11.2,10
+2442,Interferência de Terceiro,Abalroamento,1.7,11
+2443,Interferência de Terceiro,Abalroamento,1.5,14
+2444,Interferência de Terceiro,Abalroamento,1.0,14
+2445,Via Permanente,Descarrilamento,38.5,3
+2446,Interferência de Terceiro,Atropelamento,0.0,17
+2447,Interferência de Terceiro,Abalroamento,0.0,19
+2448,Interferência de Terceiro,Atropelamento,0.0,2
+2449,Interferência de Terceiro,Abalroamento,0.2,12
+2450,Via Permanente,Descarrilamento,12.2,14
+2451,Interferência de Terceiro,Atropelamento,0.5,17
+2452,Via Permanente,Descarrilamento,0.0,9
+2453,Interferência de Terceiro,Atropelamento,0.0,5
+2454,Interferência de Terceiro,Abalroamento,0.8,11
+2455,Via Permanente,Descarrilamento,22.8,18
+2456,Interferência de Terceiro,Abalroamento,4.0,20
+2457,Interferência de Terceiro,Abalroamento,0.1,15
+2458,Interferência de Terceiro,Abalroamento,0.0,8
+2459,Material Rodante,Descarrilamento,7.5,11
+2460,Interferência de Terceiro,Atropelamento,6.1,19
+2461,Interferência de Terceiro,Atropelamento,2.0,3
+2462,Interferência de Terceiro,Atropelamento,0.0,12
+2463,Interferência de Terceiro,Abalroamento,2.3,5
+2464,Interferência de Terceiro,Abalroamento,0.0,11
+2465,Via Permanente,Descarrilamento,13.3,15
+2466,Interferência de Terceiro,Atropelamento,3.3,2
+2467,Interferência de Terceiro,Atropelamento,2.5,3
+2468,Interferência de Terceiro,Abalroamento,1.3,9
+2469,Interferência de Terceiro,Abalroamento,1.0,19
+2470,Interferência de Terceiro,Abalroamento,1.0,20
+2471,Casos Fortuitos ou de Força Maior,Descarrilamento,0.0,4
+2472,Interferência de Terceiro,Atropelamento,0.0,8
+2473,Interferência de Terceiro,Atropelamento,0.0,20
+2474,Via Permanente,Descarrilamento,30.8,10
+2475,Interferência de Terceiro,Atropelamento,0.0,10
+2476,Interferência de Terceiro,Abalroamento,3.4,15
+2477,Via Permanente,Descarrilamento,8.2,14
+2478,Material Rodante,Descarrilamento,0.0,1
+2479,Interferência de Terceiro,Atropelamento,3.3,6
+2480,Via Permanente,Descarrilamento,0.0,9
+2481,Material Rodante,Descarrilamento,10.3,18
+2482,Via Permanente,Descarrilamento,8.1,23
+2483,Interferência de Terceiro,Atropelamento,0.0,6
+2484,Interferência de Terceiro,Atropelamento,1.3,9
+2485,Interferência de Terceiro,Atropelamento,4.5,11
+2486,Interferência de Terceiro,Abalroamento,0.0,13
+2487,Interferência de Terceiro,Atropelamento,3.6,13
+2488,Interferência de Terceiro,Atropelamento,3.0,16
+2489,Interferência de Terceiro,Atropelamento,0.0,9
+2490,Interferência de Terceiro,Abalroamento,2.0,23
+2491,Interferência de Terceiro,Abalroamento,1.7,0
+2492,Material Rodante,Descarrilamento,0.0,3
+2493,Via Permanente,Descarrilamento,29.4,4
+2494,Interferência de Terceiro,Atropelamento,4.5,5
+2495,Interferência de Terceiro,Atropelamento,0.0,16
+2496,Interferência de Terceiro,Abalroamento,2.3,6
+2497,Interferência de Terceiro,Atropelamento,0.7,19
+2498,Interferência de Terceiro,Atropelamento,0.0,10
+2499,Interferência de Terceiro,Atropelamento,2.0,13
+2500,Interferência de Terceiro,Atropelamento,1.5,16
+2501,Interferência de Terceiro,Atropelamento,3.8,16
+2502,Interferência de Terceiro,Atropelamento,3.0,22
+2503,Interferência de Terceiro,Abalroamento,0.0,0
+2504,Interferência de Terceiro,Atropelamento,0.5,10
+2505,Via Permanente,Descarrilamento,13.6,5
+2506,Interferência de Terceiro,Abalroamento,0.5,17
+2507,Interferência de Terceiro,Abalroamento,0.4,5
+2508,Interferência de Terceiro,Abalroamento,1.3,4
+2509,Interferência de Terceiro,Atropelamento,3.8,15
+2510,Interferência de Terceiro,Abalroamento,0.0,14
+2511,Via Permanente,Descarrilamento,0.0,16
+2512,Interferência de Terceiro,Atropelamento,0.0,17
+2513,Via Permanente,Descarrilamento,15.2,11
+2514,Interferência de Terceiro,Abalroamento,1.5,20
+2515,Interferência de Terceiro,Abalroamento,0.0,11
+2516,Interferência de Terceiro,Abalroamento,0.0,17
+2517,Interferência de Terceiro,Atropelamento,2.0,17
+2518,Interferência de Terceiro,Atropelamento,2.7,2
+2519,Interferência de Terceiro,Abalroamento,2.0,11
+2520,Interferência de Terceiro,Abalroamento,1.8,14
+2521,Interferência de Terceiro,Abalroamento,0.0,6
+2522,Interferência de Terceiro,Abalroamento,1.5,17
+2523,Interferência de Terceiro,Atropelamento,1.3,20
+2524,Interferência de Terceiro,Atropelamento,2.3,3
+2525,Interferência de Terceiro,Abalroamento,0.0,12
+2526,Interferência de Terceiro,Atropelamento,1.4,4
+2527,Via Permanente,Descarrilamento,17.6,1
+2528,Interferência de Terceiro,Abalroamento,0.1,22
+2529,Interferência de Terceiro,Abalroamento,0.7,22
+2530,Material Rodante,Descarrilamento,17.0,5
+2531,Via Permanente,Colisão,21.0,5
+2532,Interferência de Terceiro,Abalroamento,1.2,22
+2533,Material Rodante,Descarrilamento,4.4,0
+2534,Via Permanente,Descarrilamento,13.9,1
+2535,Interferência de Terceiro,Atropelamento,1.5,16
+2536,Interferência de Terceiro,Atropelamento,0.9,21
+2537,Interferência de Terceiro,Abalroamento,1.3,4
+2538,Interferência de Terceiro,Abalroamento,2.0,9
+2539,Interferência de Terceiro,Atropelamento,0.0,14
+2540,Interferência de Terceiro,Atropelamento,4.4,17
+2541,Interferência de Terceiro,Abalroamento,1.1,18
+2542,Via Permanente,Descarrilamento,5.0,20
+2543,Interferência de Terceiro,Abalroamento,2.1,23
+2544,Interferência de Terceiro,Atropelamento,0.0,17
+2545,Interferência de Terceiro,Atropelamento,0.0,18
+2546,Interferência de Terceiro,Atropelamento,3.0,11
+2547,Interferência de Terceiro,Atropelamento,0.0,9
+2548,Interferência de Terceiro,Abalroamento,0.0,17
+2549,Interferência de Terceiro,Abalroamento,5.0,18
+2550,Interferência de Terceiro,Abalroamento,1.0,21
+2551,Interferência de Terceiro,Atropelamento,0.9,17
+2552,Interferência de Terceiro,Abalroamento,0.0,14
+2553,Interferência de Terceiro,Atropelamento,0.5,3
+2554,Interferência de Terceiro,Abalroamento,0.0,8
+2555,Interferência de Terceiro,Atropelamento,0.5,9
+2556,Via Permanente,Descarrilamento,92.8,22
+2557,Interferência de Terceiro,Atropelamento,5.0,23
+2558,Interferência de Terceiro,Atropelamento,1.1,5
+2559,Interferência de Terceiro,Abalroamento,1.3,9
+2560,Interferência de Terceiro,Abalroamento,0.5,5
+2561,Interferência de Terceiro,Atropelamento,0.0,20
+2562,Interferência de Terceiro,Atropelamento,3.0,3
+2563,Interferência de Terceiro,Abalroamento,1.2,18
+2564,Interferência de Terceiro,Atropelamento,0.3,20
+2565,Interferência de Terceiro,Atropelamento,0.0,7
+2566,Interferência de Terceiro,Abalroamento,2.0,11
+2567,Interferência de Terceiro,Atropelamento,2.6,16
+2568,Interferência de Terceiro,Atropelamento,1.0,20
+2569,Interferência de Terceiro,Abalroamento,0.5,13
+2570,Interferência de Terceiro,Atropelamento,1.0,15
+2571,Interferência de Terceiro,Atropelamento,0.0,3
+2572,Interferência de Terceiro,Abalroamento,0.3,20
+2573,Interferência de Terceiro,Abalroamento,0.5,7
+2574,Interferência de Terceiro,Atropelamento,0.0,8
+2575,Interferência de Terceiro,Atropelamento,0.5,18
+2576,Casos Fortuitos ou de Força Maior,Colisão,0.0,18
+2577,Interferência de Terceiro,Atropelamento,0.0,13
+2578,Interferência de Terceiro,Atropelamento,0.1,20
+2579,Interferência de Terceiro,Atropelamento,6.3,1
+2580,Interferência de Terceiro,Atropelamento,0.0,17
+2581,Interferência de Terceiro,Atropelamento,2.0,8
+2582,Interferência de Terceiro,Abalroamento,1.0,21
+2583,Interferência de Terceiro,Atropelamento,1.9,1
+2584,Interferência de Terceiro,Atropelamento,3.0,4
+2585,Material Rodante,Descarrilamento,0.0,23
+2586,Interferência de Terceiro,Abalroamento,0.0,13
+2587,Via Permanente,Descarrilamento,46.8,2
+2588,Interferência de Terceiro,Abalroamento,2.0,11
+2589,Interferência de Terceiro,Atropelamento,1.3,23
+2590,Interferência de Terceiro,Atropelamento,0.5,8
+2591,Interferência de Terceiro,Atropelamento,2.5,15
+2592,Interferência de Terceiro,Atropelamento,3.0,17
+2593,Interferência de Terceiro,Abalroamento,0.0,17
+2594,Interferência de Terceiro,Atropelamento,2.5,22
+2595,Interferência de Terceiro,Abalroamento,1.5,23
+2596,Interferência de Terceiro,Atropelamento,0.7,14
+2597,Interferência de Terceiro,Atropelamento,1.0,22
+2598,Interferência de Terceiro,Abalroamento,2.4,0
+2599,Interferência de Terceiro,Abalroamento,0.4,9
+2600,Interferência de Terceiro,Abalroamento,0.0,9
+2601,Interferência de Terceiro,Abalroamento,2.0,17
+2602,Interferência de Terceiro,Abalroamento,0.0,23
+2603,Interferência de Terceiro,Abalroamento,1.1,23
+2604,Interferência de Terceiro,Atropelamento,0.3,17
+2605,Interferência de Terceiro,Abalroamento,1.8,20
+2606,Outras Causas,Descarrilamento,3.4,11
+2607,Interferência de Terceiro,Atropelamento,0.4,23
+2608,Interferência de Terceiro,Atropelamento,1.0,3
+2609,Interferência de Terceiro,Abalroamento,1.7,11
+2610,Material Rodante,Descarrilamento,6.6,12
+2611,Interferência de Terceiro,Atropelamento,1.5,12
+2612,Falha Humana,Descarrilamento,17.3,14
+2613,Via Permanente,Descarrilamento,4.9,17
+2614,Interferência de Terceiro,Abalroamento,5.7,9
+2615,Falha Humana,Descarrilamento,3.0,13
+2616,Interferência de Terceiro,Atropelamento,0.0,2
+2617,Falha Humana,Colisão,0.0,13
+2618,Interferência de Terceiro,Abalroamento,0.0,21
+2619,Interferência de Terceiro,Atropelamento,1.0,17
+2620,Interferência de Terceiro,Atropelamento,0.0,21
+2621,Interferência de Terceiro,Atropelamento,0.0,7
+2622,Interferência de Terceiro,Abalroamento,1.0,9
+2623,Interferência de Terceiro,Abalroamento,0.5,10
+2624,Interferência de Terceiro,Atropelamento,2.0,18
+2625,Interferência de Terceiro,Atropelamento,2.5,20
+2626,Interferência de Terceiro,Atropelamento,3.0,17
+2627,Interferência de Terceiro,Abalroamento,2.9,23
+2628,Interferência de Terceiro,Atropelamento,0.5,7
+2629,Interferência de Terceiro,Abalroamento,2.2,8
+2630,Interferência de Terceiro,Atropelamento,1.0,21
+2631,Interferência de Terceiro,Abalroamento,0.3,23
+2632,Interferência de Terceiro,Atropelamento,0.2,20
+2633,Via Permanente,Descarrilamento,21.0,6
+2634,Interferência de Terceiro,Abalroamento,0.0,8
+2635,Interferência de Terceiro,Abalroamento,0.0,16
+2636,Interferência de Terceiro,Abalroamento,2.5,13
+2637,Interferência de Terceiro,Abalroamento,0.5,22
+2638,Interferência de Terceiro,Abalroamento,1.0,9
+2639,Interferência de Terceiro,Abalroamento,2.0,9
+2640,Interferência de Terceiro,Atropelamento,2.0,20
+2641,Interferência de Terceiro,Atropelamento,4.0,0
+2642,Interferência de Terceiro,Atropelamento,2.4,1
+2643,Interferência de Terceiro,Atropelamento,0.2,7
+2644,Interferência de Terceiro,Atropelamento,0.0,11
+2645,Interferência de Terceiro,Atropelamento,0.2,10
+2646,Interferência de Terceiro,Abalroamento,1.6,13
+2647,Interferência de Terceiro,Abalroamento,1.0,13
+2648,Interferência de Terceiro,Atropelamento,7.0,1
+2649,Interferência de Terceiro,Abalroamento,0.0,17
+2650,Falha Humana,Colisão,0.0,11
+2651,Interferência de Terceiro,Abalroamento,3.2,16
+2652,Interferência de Terceiro,Abalroamento,2.0,8
+2653,Interferência de Terceiro,Atropelamento,2.2,8
+2654,Interferência de Terceiro,Abalroamento,2.6,13
+2655,Interferência de Terceiro,Atropelamento,0.0,23
+2656,Interferência de Terceiro,Atropelamento,0.5,16
+2657,Interferência de Terceiro,Atropelamento,0.0,1
+2658,Interferência de Terceiro,Atropelamento,1.0,19
+2659,Interferência de Terceiro,Atropelamento,2.0,9
+2660,Interferência de Terceiro,Abalroamento,0.5,18
+2661,Via Permanente,Descarrilamento,19.4,0
+2662,Interferência de Terceiro,Abalroamento,0.3,2
+2663,Falha Humana,Descarrilamento,0.0,14
+2664,Interferência de Terceiro,Atropelamento,0.0,17
+2665,Interferência de Terceiro,Abalroamento,3.1,17
+2666,Interferência de Terceiro,Atropelamento,1.0,21
+2667,Interferência de Terceiro,Abalroamento,0.0,10
+2668,Via Permanente,Descarrilamento,17.0,11
+2669,Interferência de Terceiro,Atropelamento,9.5,15
+2670,Interferência de Terceiro,Abalroamento,4.3,16
+2671,Interferência de Terceiro,Atropelamento,4.0,17
+2672,Interferência de Terceiro,Atropelamento,0.0,23
+2673,Interferência de Terceiro,Abalroamento,1.2,12
+2674,Casos Fortuitos ou de Força Maior,Incêndio,0.0,15
+2675,Interferência de Terceiro,Atropelamento,2.2,6
+2676,Interferência de Terceiro,Abalroamento,0.7,22
+2677,Interferência de Terceiro,Abalroamento,3.0,11
+2678,Interferência de Terceiro,Abalroamento,0.4,15
+2679,Interferência de Terceiro,Abalroamento,2.3,0
+2680,Material Rodante,Descarrilamento,0.0,21
+2681,Interferência de Terceiro,Abalroamento,1.0,1
+2682,Material Rodante,Descarrilamento,7.2,16
+2683,Via Permanente,Descarrilamento,3.5,18
+2684,Interferência de Terceiro,Abalroamento,12.2,18
+2685,Casos Fortuitos ou de Força Maior,Abalroamento,4.0,21
+2686,Interferência de Terceiro,Abalroamento,0.9,8
+2687,Interferência de Terceiro,Abalroamento,0.6,14
+2688,Interferência de Terceiro,Atropelamento,1.5,17
+2689,Interferência de Terceiro,Abalroamento,0.5,18
+2690,Casos Fortuitos ou de Força Maior,Descarrilamento,1.6,3
+2691,Interferência de Terceiro,Abalroamento,0.0,6
+2692,Material Rodante,Descarrilamento,16.3,13
+2693,Via Permanente,Descarrilamento,24.0,14
+2694,Interferência de Terceiro,Abalroamento,1.8,17
+2695,Interferência de Terceiro,Abalroamento,1.0,18
+2696,Casos Fortuitos ou de Força Maior,Colisão,0.0,16
+2697,Interferência de Terceiro,Abalroamento,0.0,21
+2698,Interferência de Terceiro,Abalroamento,0.0,21
+2699,Casos Fortuitos ou de Força Maior,Atropelamento,0.0,5
+2700,Interferência de Terceiro,Atropelamento,1.0,19
+2701,Interferência de Terceiro,Abalroamento,1.4,11
+2702,Interferência de Terceiro,Abalroamento,0.0,12
+2703,Interferência de Terceiro,Atropelamento,0.0,17
+2704,Interferência de Terceiro,Atropelamento,3.0,18
+2705,Interferência de Terceiro,Abalroamento,0.5,21
+2706,Interferência de Terceiro,Atropelamento,1.0,5
+2707,Interferência de Terceiro,Atropelamento,0.0,8
+2708,Interferência de Terceiro,Abalroamento,0.0,18
+2709,Interferência de Terceiro,Atropelamento,1.1,17
+2710,Interferência de Terceiro,Atropelamento,1.0,18
+2711,Interferência de Terceiro,Abalroamento,1.3,15
+2712,Interferência de Terceiro,Abalroamento,1.1,8
+2713,Outras Causas,Atropelamento,0.0,9
+2714,Interferência de Terceiro,Atropelamento,0.5,15
+2715,Interferência de Terceiro,Abalroamento,1.6,17
+2716,Interferência de Terceiro,Abalroamento,1.3,19
+2717,Interferência de Terceiro,Atropelamento,1.5,23
+2718,Interferência de Terceiro,Abalroamento,2.0,11
+2719,Interferência de Terceiro,Atropelamento,0.0,1
+2720,Interferência de Terceiro,Abalroamento,2.0,11
+2721,Interferência de Terceiro,Atropelamento,3.0,20
+2722,Interferência de Terceiro,Abalroamento,0.0,17
+2723,Interferência de Terceiro,Atropelamento,1.4,12
+2724,Interferência de Terceiro,Atropelamento,1.6,8
+2725,Interferência de Terceiro,Abalroamento,0.0,21
+2726,Interferência de Terceiro,Abalroamento,0.4,13
+2727,Interferência de Terceiro,Atropelamento,0.1,11
+2728,Via Permanente,Descarrilamento,24.0,22
+2729,Interferência de Terceiro,Atropelamento,1.5,15
+2730,Interferência de Terceiro,Abalroamento,2.0,18
+2731,Interferência de Terceiro,Incêndio,0.5,20
+2732,Interferência de Terceiro,Abalroamento,1.4,23
+2733,Interferência de Terceiro,Abalroamento,0.7,23
+2734,Interferência de Terceiro,Atropelamento,2.0,17
+2735,Via Permanente,Descarrilamento,24.0,22
+2736,Via Permanente,Descarrilamento,0.0,8
+2737,Via Permanente,Descarrilamento,20.4,16
+2738,Material Rodante,Descarrilamento,23.0,3
+2739,Interferência de Terceiro,Atropelamento,1.0,11
+2740,Interferência de Terceiro,Atropelamento,1.8,16
+2741,Interferência de Terceiro,Abalroamento,0.5,21
+2742,Interferência de Terceiro,Atropelamento,3.0,16
+2743,Interferência de Terceiro,Abalroamento,1.6,3
+2744,Interferência de Terceiro,Atropelamento,2.0,21
+2745,Via Permanente,Descarrilamento,6.3,17
+2746,Interferência de Terceiro,Abalroamento,1.4,4
+2747,Interferência de Terceiro,Atropelamento,0.0,11
+2748,Interferência de Terceiro,Abalroamento,2.0,18
+2749,Interferência de Terceiro,Atropelamento,1.5,7
+2750,Interferência de Terceiro,Abalroamento,0.9,7
+2751,Interferência de Terceiro,Abalroamento,3.0,12
+2752,Via Permanente,Descarrilamento,24.0,15
+2753,Via Permanente,Descarrilamento,0.0,2
+2754,Interferência de Terceiro,Abalroamento,0.3,11
+2755,Interferência de Terceiro,Abalroamento,1.0,8
+2756,Interferência de Terceiro,Abalroamento,4.9,1
+2757,Interferência de Terceiro,Abalroamento,0.0,3
+2758,Interferência de Terceiro,Abalroamento,1.8,17
+2759,Interferência de Terceiro,Abalroamento,0.0,16
+2760,Interferência de Terceiro,Atropelamento,3.8,23
+2761,Interferência de Terceiro,Abalroamento,1.0,2
+2762,Via Permanente,Descarrilamento,18.9,12
+2763,Interferência de Terceiro,Atropelamento,1.0,22
+2764,Interferência de Terceiro,Abalroamento,0.7,17
+2765,Interferência de Terceiro,Abalroamento,0.0,17
+2766,Interferência de Terceiro,Atropelamento,1.0,9
+2767,Interferência de Terceiro,Atropelamento,2.8,9
+2768,Interferência de Terceiro,Abalroamento,0.3,9
+2769,Via Permanente,Descarrilamento,0.0,23
+2770,Interferência de Terceiro,Atropelamento,3.0,5
+2771,Interferência de Terceiro,Abalroamento,0.0,7
+2772,Interferência de Terceiro,Abalroamento,1.6,10
+2773,Interferência de Terceiro,Atropelamento,5.8,11
+2774,Interferência de Terceiro,Abalroamento,0.0,11
+2775,Interferência de Terceiro,Abalroamento,3.0,13
+2776,Interferência de Terceiro,Atropelamento,0.6,16
+2777,Interferência de Terceiro,Abalroamento,2.1,6
+2778,Interferência de Terceiro,Abalroamento,1.2,17
+2779,Interferência de Terceiro,Atropelamento,4.0,21
+2780,Interferência de Terceiro,Abalroamento,3.0,21
+2781,Via Permanente,Descarrilamento,15.1,7
+2782,Falha Humana,Descarrilamento,26.5,8
+2783,Interferência de Terceiro,Atropelamento,0.2,2
+2784,Interferência de Terceiro,Atropelamento,1.3,0
+2785,Interferência de Terceiro,Abalroamento,1.9,7
+2786,Interferência de Terceiro,Atropelamento,0.2,8
+2787,Interferência de Terceiro,Atropelamento,0.6,15
+2788,Interferência de Terceiro,Atropelamento,0.8,18
+2789,Interferência de Terceiro,Atropelamento,0.0,10
+2790,Interferência de Terceiro,Atropelamento,0.0,10
+2791,Interferência de Terceiro,Abalroamento,0.4,16
+2792,Via Permanente,Descarrilamento,3.6,11
+2793,Interferência de Terceiro,Atropelamento,0.0,5
+2794,Interferência de Terceiro,Atropelamento,2.0,6
+2795,Via Permanente,Descarrilamento,6.0,11
+2796,Interferência de Terceiro,Atropelamento,0.4,21
+2797,Interferência de Terceiro,Atropelamento,0.2,6
+2798,Via Permanente,Descarrilamento,10.3,15
+2799,Interferência de Terceiro,Atropelamento,0.0,16
+2800,Interferência de Terceiro,Atropelamento,1.2,20
+2801,Interferência de Terceiro,Descarrilamento,24.0,23
+2802,Via Permanente,Descarrilamento,4.5,13
+2803,Interferência de Terceiro,Atropelamento,5.4,12
+2804,Via Permanente,Descarrilamento,5.3,0
+2805,Interferência de Terceiro,Abalroamento,1.0,0
+2806,Via Permanente,Descarrilamento,17.5,13
+2807,Interferência de Terceiro,Atropelamento,0.0,16
+2808,Via Permanente,Descarrilamento,3.5,20
+2809,Material Rodante,Descarrilamento,20.0,22
+2810,Interferência de Terceiro,Abalroamento,1.3,16
+2811,Interferência de Terceiro,Atropelamento,2.6,1
+2812,Interferência de Terceiro,Atropelamento,0.0,10
+2813,Interferência de Terceiro,Atropelamento,2.0,21
+2814,Interferência de Terceiro,Abalroamento,0.0,0
+2815,Interferência de Terceiro,Abalroamento,0.5,6
+2816,Interferência de Terceiro,Abalroamento,2.0,9
+2817,Interferência de Terceiro,Atropelamento,1.0,15
+2818,Interferência de Terceiro,Atropelamento,1.2,17
+2819,Interferência de Terceiro,Abalroamento,2.3,3
+2820,Via Permanente,Descarrilamento,8.3,7
+2821,Interferência de Terceiro,Abalroamento,4.2,9
+2822,Falha Humana,Descarrilamento,2.1,11
+2823,Interferência de Terceiro,Atropelamento,1.5,6
+2824,Interferência de Terceiro,Abalroamento,1.4,18
+2825,Via Permanente,Descarrilamento,21.8,17
+2826,Interferência de Terceiro,Atropelamento,1.7,9
+2827,Interferência de Terceiro,Abalroamento,2.0,20
+2828,Interferência de Terceiro,Abalroamento,1.1,4
+2829,Interferência de Terceiro,Atropelamento,0.8,12
+2830,Interferência de Terceiro,Abalroamento,0.0,6
+2831,Interferência de Terceiro,Abalroamento,4.0,7
+2832,Interferência de Terceiro,Atropelamento,0.0,10
+2833,Gestão,Incêndio,0.0,11
+2834,Interferência de Terceiro,Abalroamento,1.6,9
+2835,Interferência de Terceiro,Atropelamento,1.2,13
+2836,Interferência de Terceiro,Atropelamento,0.0,5
+2837,Interferência de Terceiro,Atropelamento,1.0,14
+2838,Interferência de Terceiro,Atropelamento,3.4,1
+2839,Interferência de Terceiro,Abalroamento,0.0,6
+2840,Interferência de Terceiro,Abalroamento,1.0,21
+2841,Interferência de Terceiro,Atropelamento,7.0,8
+2842,Interferência de Terceiro,Atropelamento,4.2,15
+2843,Interferência de Terceiro,Abalroamento,0.4,19
+2844,Interferência de Terceiro,Atropelamento,3.0,20
+2845,Interferência de Terceiro,Atropelamento,0.9,8
+2846,Interferência de Terceiro,Abalroamento,0.0,17
+2847,Interferência de Terceiro,Abalroamento,0.5,11
+2848,Via Permanente,Descarrilamento,52.7,12
+2849,Via Permanente,Descarrilamento,7.5,4
+2850,Via Permanente,Descarrilamento,0.0,11
+2851,Interferência de Terceiro,Abalroamento,1.4,12
+2852,Material Rodante,Descarrilamento,4.2,19
+2853,Interferência de Terceiro,Atropelamento,0.9,7
+2854,Interferência de Terceiro,Abalroamento,0.0,9
+2855,Material Rodante,Descarrilamento,4.1,1
+2856,Interferência de Terceiro,Abalroamento,2.2,6
+2857,Interferência de Terceiro,Abalroamento,8.1,6
+2858,Interferência de Terceiro,Atropelamento,3.0,20
+2859,Interferência de Terceiro,Abalroamento,1.0,18
+2860,Interferência de Terceiro,Abalroamento,4.9,20
+2861,Interferência de Terceiro,Descarrilamento,7.1,1
+2862,Interferência de Terceiro,Abalroamento,3.8,3
+2863,Interferência de Terceiro,Atropelamento,0.0,21
+2864,Interferência de Terceiro,Abalroamento,0.5,23
+2865,Via Permanente,Descarrilamento,3.5,5
+2866,Via Permanente,Descarrilamento,4.7,12
+2867,Interferência de Terceiro,Abalroamento,0.3,18
+2868,Interferência de Terceiro,Atropelamento,2.7,5
+2869,Via Permanente,Descarrilamento,3.3,5
+2870,Interferência de Terceiro,Abalroamento,2.0,16
+2871,Interferência de Terceiro,Abalroamento,0.3,23
+2872,Via Permanente,Descarrilamento,22.5,16
+2873,Interferência de Terceiro,Atropelamento,3.0,20
+2874,Interferência de Terceiro,Atropelamento,1.0,21
+2875,Interferência de Terceiro,Atropelamento,2.7,9
+2876,Via Permanente,Descarrilamento,0.0,7
+2877,Interferência de Terceiro,Atropelamento,0.0,23
+2878,Interferência de Terceiro,Abalroamento,2.2,12
+2879,Interferência de Terceiro,Abalroamento,0.5,14
+2880,Interferência de Terceiro,Abalroamento,2.7,7
+2881,Interferência de Terceiro,Abalroamento,5.3,9
+2882,Material Rodante,Descarrilamento,10.1,14
+2883,Interferência de Terceiro,Atropelamento,1.0,18
+2884,Interferência de Terceiro,Atropelamento,1.5,9
+2885,Interferência de Terceiro,Atropelamento,0.4,12
+2886,Interferência de Terceiro,Atropelamento,1.4,20
+2887,Outras Causas,Descarrilamento,0.0,2
+2888,Outras Causas,Descarrilamento,22.6,8
+2889,Interferência de Terceiro,Abalroamento,2.1,8
+2890,Interferência de Terceiro,Abalroamento,0.0,16
+2891,Interferência de Terceiro,Atropelamento,2.2,10
+2892,Interferência de Terceiro,Atropelamento,0.0,12
+2893,Interferência de Terceiro,Atropelamento,0.0,15
+2894,Interferência de Terceiro,Atropelamento,0.0,22
+2895,Via Permanente,Descarrilamento,24.0,7
+2896,Interferência de Terceiro,Abalroamento,1.0,7
+2897,Outras Causas,Descarrilamento,0.0,13
+2898,Interferência de Terceiro,Atropelamento,0.0,4
+2899,Interferência de Terceiro,Abalroamento,0.0,22
+2900,Interferência de Terceiro,Abalroamento,1.3,12
+2901,Interferência de Terceiro,Abalroamento,0.0,8
+2902,Interferência de Terceiro,Abalroamento,0.0,16
+2903,Interferência de Terceiro,Atropelamento,5.5,18
+2904,Via Permanente,Descarrilamento,5.0,7
+2905,Interferência de Terceiro,Abalroamento,1.3,12
+2906,Interferência de Terceiro,Atropelamento,0.0,14
+2907,Interferência de Terceiro,Atropelamento,0.0,3
+2908,Interferência de Terceiro,Abalroamento,1.0,19
+2909,Interferência de Terceiro,Atropelamento,0.0,19
+2910,Via Permanente,Descarrilamento,11.0,21
+2911,Interferência de Terceiro,Abalroamento,3.0,10
+2912,Interferência de Terceiro,Atropelamento,0.8,16
+2913,Via Permanente,Descarrilamento,12.4,10
+2914,Interferência de Terceiro,Atropelamento,0.0,18
+2915,Interferência de Terceiro,Abalroamento,0.5,1
+2916,Interferência de Terceiro,Atropelamento,0.7,12
+2917,Material Rodante,Descarrilamento,7.0,4
+2918,Interferência de Terceiro,Atropelamento,0.4,17
+2919,Interferência de Terceiro,Atropelamento,3.0,15
+2920,Interferência de Terceiro,Abalroamento,4.0,12
+2921,Via Permanente,Descarrilamento,37.6,16
+2922,Via Permanente,Descarrilamento,7.2,2
+2923,Interferência de Terceiro,Abalroamento,0.1,11
+2924,Interferência de Terceiro,Abalroamento,1.5,18
+2925,Interferência de Terceiro,Abalroamento,0.9,2
+2926,Interferência de Terceiro,Abalroamento,1.0,7
+2927,Interferência de Terceiro,Atropelamento,5.0,13
+2928,Interferência de Terceiro,Atropelamento,1.0,16
+2929,Interferência de Terceiro,Abalroamento,0.6,6
+2930,Via Permanente,Descarrilamento,35.0,8
+2931,Interferência de Terceiro,Atropelamento,0.5,13
+2932,Interferência de Terceiro,Abalroamento,2.0,19
+2933,Casos Fortuitos ou de Força Maior,Colisão,0.0,10
+2934,Interferência de Terceiro,Abalroamento,0.0,20
+2935,Casos Fortuitos ou de Força Maior,Descarrilamento,8.0,12
+2936,Interferência de Terceiro,Abalroamento,2.0,3
+2937,Via Permanente,Descarrilamento,0.0,1
+2938,Via Permanente,Descarrilamento,1.3,2
+2939,Interferência de Terceiro,Abalroamento,0.2,18
+2940,Interferência de Terceiro,Abalroamento,2.0,18
+2941,Interferência de Terceiro,Atropelamento,0.0,5
+2942,Interferência de Terceiro,Abalroamento,5.0,9
+2943,Interferência de Terceiro,Atropelamento,0.0,7
+2944,Interferência de Terceiro,Atropelamento,2.5,0
+2945,Interferência de Terceiro,Abalroamento,0.3,13
+2946,Interferência de Terceiro,Abalroamento,0.5,15
+2947,Interferência de Terceiro,Atropelamento,0.0,20
+2948,Interferência de Terceiro,Atropelamento,0.0,22
+2949,Material Rodante,Incêndio,0.0,5
+2950,Outras Causas,Descarrilamento,3.2,14
+2951,Interferência de Terceiro,Abalroamento,0.0,15
+2952,Interferência de Terceiro,Atropelamento,0.0,17
+2953,Interferência de Terceiro,Abalroamento,0.0,12
+2954,Interferência de Terceiro,Atropelamento,2.0,0
+2955,Interferência de Terceiro,Abalroamento,0.0,16
+2956,Interferência de Terceiro,Abalroamento,2.0,18
+2957,Interferência de Terceiro,Abalroamento,0.0,20
+2958,Interferência de Terceiro,Atropelamento,0.0,21
+2959,Interferência de Terceiro,Abalroamento,0.0,19
+2960,Via Permanente,Descarrilamento,26.0,2
+2961,Interferência de Terceiro,Abalroamento,0.1,10
+2962,Casos Fortuitos ou de Força Maior,Descarrilamento,0.0,22
+2963,Via Permanente,Descarrilamento,10.0,7
+2964,Via Permanente,Descarrilamento,47.5,14
+2965,Interferência de Terceiro,Abalroamento,0.0,14
+2966,Material Rodante,Descarrilamento,0.0,6
