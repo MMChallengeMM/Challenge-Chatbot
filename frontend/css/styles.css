@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    --cor-principal: #6800bd;
+    --branco: #e0e0e0;
+}
+
+a.selected {
+    text-decoration: underline;
+}

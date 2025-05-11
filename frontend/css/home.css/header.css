@@ -1,0 +1,33 @@
+header {
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.541);
+}
+
+header > nav {
+    display: flex;
+    justify-content: right;
+    background-color: var(--cor-principal);
+    align-items: center;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+#logo > img {
+    margin-right: 1em;
+}
+
+nav > a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+    color: var(--branco);
+    padding: 1.5em;
+}
+
+nav > a:hover {
+    background-color: var(--cor-principal);
+    filter: brightness(1.2);
+}
