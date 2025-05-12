@@ -1,0 +1,43 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  text-align: center;
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1); 
+  width: 40%;
+  margin: 1em;
+  justify-self: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+button {
+  align-self: center;
+}
+
+input, select {
+    width: 300px;
+}
+
+label {
+    font-weight: bold;
+}
+
+main h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+    background-color: var(--cor-principal);
+    padding: 1em;
+    color: var(--branco);
+    border-radius: 2em;
+}

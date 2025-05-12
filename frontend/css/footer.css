@@ -1,0 +1,20 @@
+footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--cor-principal);
+    color: var(--branco);
+    height: 10vh;
+}
+
+footer p {
+    font-weight: bold
+}
+
+footer a {
+    color: var(--branco);
+}
+
+footer a:hover {
+    text-decoration: wavy;
+}
