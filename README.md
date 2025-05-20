@@ -58,6 +58,9 @@ notebooks/
 
 ## ▶️ Execução do Projeto
 
+### Modelo de predição
+1. Instale a extensão `Jupyter` do VSCode e rode `/notebooks/Challenge.ipynb`
+
 ### Backend (API Flask)
 1. Navegue até a pasta `/app`:
    ```bash
