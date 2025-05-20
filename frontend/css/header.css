@@ -18,6 +18,8 @@ header > nav {
 
 #logo > img {
     margin-right: 1em;
+    width: 10%;
+    border-radius: 2em;
 }
 
 nav > a {

@@ -62,6 +62,8 @@ notebooks/
 1. Instale a extensão `Jupyter` do VSCode e rode `/notebooks/Challenge.ipynb`
 
 ### Backend (API Flask)
+0. Caso crie seu `Python Enviroment` certifique-se de rodar `.venv/Scripts/activate` para poder rodar o projeto
+
 1. Navegue até a pasta `/app`:
    ```bash
    cd app
